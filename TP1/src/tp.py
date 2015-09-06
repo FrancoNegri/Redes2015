@@ -57,14 +57,14 @@ def entropyByNodes():
 	
 	for pkt in S1:
 		if pkt.op in (1,2): #who-has o is-at
-			src = pkt.psrc
-			dst = pkt.pdst
+			ip_src = pkt.psrc
+			ip_dst = pkt.pdst
 			if pkt.op == 1:
 				op = 'who-has'
 			else:
 				op = 'is-at'
 				
-			print(src, dst, op)
+			print(ip_src, ip_dst, op)
 			
 	return '---Fuente S1--- Ok' 
 		
