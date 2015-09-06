@@ -1,0 +1,68 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc} % para poder usar tildes en archivos UTF-8
+\usepackage[spanish]{babel} % para que comandos como \today den el resultado en castellano
+\usepackage{a4wide} % márgenes un poco más anchos que lo usual
+\usepackage[conEntregas]{caratula2}
+%\usepackage{float}
+\usepackage[pdftex]{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+%Esto de abajo es para encabezado y pie de pagina
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+% Simbolos matemáticos
+%\usepackage{amsmath}
+%\usepackage{amsfonts}
+%\usepackage{amssymb}
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+% Descoración y gráficos
+%\usepackage{fancyhdr}
+%\usepackage{multirow}
+%\usepackage{alltt}
+
+\pagestyle{fancy}
+
+\cfoot{\thepage /\pageref{LastPage} }
+
+
+
+\newcommand\BlockIf[1]{\KwSty{If} \\ #1 \\ \KwSty{End If}}
+\newcommand\BlockElseIf[1]{\KwSty{Else If} \\ #1 \\ \KwSty{End Else If}}
+\newcommand\BlockElse[1]{\KwSty{Else} \\ #1 \\ \KwSty{End Else}}
+
+\begin{document}
+
+\titulo{Trabajo Práctico 1}
+\subtitulo{Wiretapping}
+
+\fecha{\today}
+
+\materia{Teoría de las Comunicaciones}
+\submateria{2do Cuatrimestre de 2015}
+\grupo{Grupo 5}
+
+\integrante{Abásolo, Nicolás}{310/08}{nicolasabasolo@gmail.com}
+\integrante{Garrone, Javier}{151/10}{javier3653@gmail.com}
+\integrante{Negri, Franco}{693/13}{franconegri2004@hotmail.com}
+\integrante{Santos, Diego}{874/03}{diego.h.santos@gmail.com}
+% Pongan cuantos integrantes quieran
+
+\maketitle
+
+\newpage
+\tableofcontents		%compilar varias veces si no se actualiza el indice o el piede pagina
+
+\newpage
+\input{intro}
+
+\newpage
+\input{primeraConsigna}
+
+\newpage
+\input{segundaConsigna}
+
+\newpage
+\input{conclusiones}
+
+\end{document}
