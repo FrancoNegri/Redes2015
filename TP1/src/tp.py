@@ -8,18 +8,16 @@ pkts = []
 
 def proccessPacket(pkt):
 	global S
-	global pkts
-	pkts.append(pkt)
+	global pkts	
 	if hasattr(pkt, 'type'):
 		S.append(pkt.type)
+		pkts.append(pkt)
 	else:
-		print 'Packet has no attribute type' # Es normal que haya paquetes sin tipo ??
+		print 'Packet has no attribute type' # Comentar en el informe que ignoramos los paquetes sin tipo
 
 def entropyByType():
 	global S
-	
-	sniff(prn=proccessPacket, store=0, timeout=5) #Cambiar el timeOut (segundos)
-	
+		
 	type_to_count = {x: S.count(x) for x in S}
 	#print type_to_count
 	
@@ -58,18 +56,24 @@ def entropyByNodes():
 	for pkt in S1:
 		if pkt.op in (1,2): #who-has o is-at
 			ip_src = pkt.psrc
+			mac_src = pkt.src
 			ip_dst = pkt.pdst
+			mac_dst = pkt.dst			
 			if pkt.op == 1:
 				op = 'who-has'
+				print 'Who has? ip {}, tell ip {}, at mac {}'.format(ip_dst, ip_src, mac_src)
 			else:
-				op = 'is-at'
-				
-			print(ip_src, ip_dst, op)
+				op = 'is-at'				
+				print 'The ip {} is at mac {}, telling ip {}, at mac {}'.format(ip_src, mac_src, ip_dst, mac_dst)
+
+			print(ip_src, mac_src, ip_dst, mac_dst, op)
 			
 	return '---Fuente S1--- Ok' 
 		
 if __name__ == '__main__':
 	print "TP1: Wiretapping"
+
+	sniff(prn=proccessPacket, store=0, timeout=5) #Cambiar el timeOut (segundos)
 	print entropyByType()	
 	print entropyByNodes()
 	
