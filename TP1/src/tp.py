@@ -25,6 +25,7 @@ def isARP(pkt):
 	return hasattr(pkt, 'type') and pkt.type == 2054 #2054 es ARP, 2048 es IP
 
 def printARPdata(pkt):
+	
 	ip_src, mac_src = pkt.psrc, pkt.src
 	ip_dst, mac_dst = pkt.pdst, pkt.dst
 	if pkt.op == 1:
@@ -35,28 +36,42 @@ def printARPdata(pkt):
 def entropyByType():
 	global S
 		
+	print "----------Calculando entropia para fuente S----------"
 	type_to_count = {x: S.count(x) for x in set(S)}
 	S_length = float(len(S))
 	type_to_prob = {pkt_type: float(count)/S_length for pkt_type, count in type_to_count.iteritems()}
 	type_to_info = {pkt_type: -log(prob, 2) for pkt_type, prob in type_to_prob.iteritems()}
 	entropia = sum( [ type_to_info[pkt_type]*prob for pkt_type, prob in type_to_prob.iteritems() ] )
 
-	print "-----------------------------"
 	print "Probabilidad de la fuente S: {}".format(type_to_prob)
 	print "Entropia de la fuente S: {}".format(entropia)
-	print "-----------------------------"
+	print ""
 
-	return '---Fuente S--- OK'
-	
 def entropyByNodes():
 	global pkts
 	global S1
 	
-	S1 = filter(lambda pkt: isARP(pkt), pkts)
+	print "----------Calculando entropia para fuente S1----------"
+	if len(arp_pkts) != 0:
+		S1 = filter(lambda pkt: isARP(pkt), pkts)
+		nodes_src = [x.src for x in S1]
+		nodes_dst = [x.dst for x in S1]
+		nodes = nodes_src + nodes_dst #Por ahora cuento todos los nodos, pero puede hacerse para que cuente solo los src o dst
+		nodes_to_count = {x: nodes.count(x) for x in set(nodes)}
+		S1_length = float(len(nodes))
+		nodes_to_prob = {node: float(count)/S1_length for node, count in nodes_to_count.iteritems()}
+		nodes_to_info = {node: -log(prob, 2) for node, prob in nodes_to_prob.iteritems()}
+		entropia = sum( [ nodes_to_info[node]*prob for node, prob in nodes_to_prob.iteritems() ] )
 
-	countHostsOfARPPackets(S1)
+		print "Nodos: {}".format(nodes_to_count)
+		print "Probabilidad de la fuente S1: {}".format(nodes_to_prob)
+		print 'Entropia de la fuente S: {}'.format(entropia)
+		print ""
+		countHostsOfARPPackets(S1)
+	else:
+		print 'No ARP pakets, nothing to be done =('
+		print ""
 
-	return '---Fuente S1--- Ok' 
 
 def countHostsOfARPPackets(arp_pkts):
 
@@ -76,31 +91,38 @@ def countHostsOfARPPackets(arp_pkts):
 		
 		return src_ips_to_count, dst_ips_to_count
 
-	print "-----------------------------"
+	print "----------Resumen de Hosts-----------"
 	
-	who_has_op = 1
-	who_has_src_ips_to_count, who_has_dst_ips_to_count = countHostsByOp(arp_pkts, who_has_op)
-	print "Who_has_src_ips_to_count: {}".format(who_has_src_ips_to_count)
-	print "Who_has_dst_ips_to_count: {}".format(who_has_dst_ips_to_count)
-	
-	is_at_op = 2
-	is_at_src_ips_to_count, is_at_dst_ips_to_count = countHostsByOp(arp_pkts, is_at_op)
-	print "Is_at_src_ips_to_count: {}".format(is_at_src_ips_to_count)
-	print "Is_at_dst_ips_to_count: {}".format(is_at_dst_ips_to_count)
-	
-	print "-----------------------------"
+	if len(arp_pkts) != 0:
+		who_has_op = 1
+		who_has_src_ips_to_count, who_has_dst_ips_to_count = countHostsByOp(arp_pkts, who_has_op)
+		print 'Who_has_src_ips_to_count: {}'.format(who_has_src_ips_to_count)
+		print 'Who_has_dst_ips_to_count: {}'.format(who_has_dst_ips_to_count)
+		
+		is_at_op = 2
+		is_at_src_ips_to_count, is_at_dst_ips_to_count = countHostsByOp(arp_pkts, is_at_op)
+		print 'Is_at_src_ips_to_count: {}'.format(is_at_src_ips_to_count)
+		print 'Is_at_dst_ips_to_count: {}'.format(is_at_dst_ips_to_count)
+		
+	else:
+		print "There was no ARP packets to analyze"
 
+	print ""
 
 if __name__ == '__main__':
 	print "TP1: Wiretapping"
 
-	sniff_timeout = 1
+	sniff_timeout = 10
 	if len(sys.argv) > 1:
 		sniff_timeout = int(sys.argv[1])
 	
 	print 'sniff timeout = {} segs'.format(sniff_timeout)
+	print ""
+	print "----------Paquetes ARP capturados----------"
 	sniff(prn=proccessPacket, store=0, timeout=sniff_timeout) #Cambiar el timeOut (segundos)
-	
-	print entropyByType()	
-	print entropyByNodes()
+	print "----------Fin Captura----------"
+	print ""
+	entropyByType()	
+	entropyByNodes()
+	print "----------Fin----------"
 	
