@@ -52,8 +52,8 @@ def entropyByNodes():
 	global S1
 	
 	print "----------Calculando entropia para fuente S1----------"
-	if len(arp_pkts) != 0:
-		S1 = filter(lambda pkt: isARP(pkt), pkts)
+	S1 = filter(lambda pkt: isARP(pkt), pkts)
+	if len(S1) != 0:	
 		nodes_src = [x.src for x in S1]
 		nodes_dst = [x.dst for x in S1]
 		nodes = nodes_src + nodes_dst #Por ahora cuento todos los nodos, pero puede hacerse para que cuente solo los src o dst
@@ -112,7 +112,7 @@ def countHostsOfARPPackets(arp_pkts):
 if __name__ == '__main__':
 	print "TP1: Wiretapping"
 
-	sniff_timeout = 10
+	sniff_timeout = 5
 	if len(sys.argv) > 1:
 		sniff_timeout = int(sys.argv[1])
 	
