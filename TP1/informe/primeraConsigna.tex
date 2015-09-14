@@ -1,1 +1,52 @@
 \section{Primera consigna: Capturando tráfico}
+
+\subsection{Implementación de \emph{tool} de escucha pasiva}
+Utilizamos el ejemplo provisto por la documentación de \emph{Scapy} y lo visto en clase. 
+El mismo se encuentra modificado para que se almacenen todos los paquetes Ethernet de la red local durante cierto tiempo.
+
+\subsection{Análisis de entropía de la red}
+
+\subsubsection{Fuente de información}
+Definimos $S$ como fuente de información para el trabajo a los protocolos que se pueden identificar a través del campo $type$ 
+proveniente de cada paquete. Es decir, se han tomado como símbolos a cada uno de los protocolos de los $n$ paquetes que se han escuchado en cada red.\\
+
+Además, para cada captura, se ha definido la fuente de información $S1$ con el objetivo de distinguir los nodos (host) de la red. La fuente $S1$
+está basada únicamente en paquetes $ARP$. Definimos como fuentes de información para el trabajo a las direcciones IP fuente ($F_{src}$) y destino ($F_{dst}$) de los paquetes ARP. 
+Tomando como símbolos $s \in S1$ a cada una de las $n$ direcciones IP de la red que se han escuchado, cada símbolo se corresponde a un host o 
+entidad de red (Broadcast, por ejemplo).
+Notamos importante que combinando éstas fuentes de información nos permite representar cualquier flujo de mensajes $ARP$ a través de una sucesión
+de pares de símbolos [$s_i$, $s_j$] ($i,j \in [1\ldots n]$).
+Es importante notar que tomaremos a $F_{src}$ y a $F_{dst}$ como \emph{fuentes de memoria nula}, ya que el análisis que estamos haciendo es a 
+nivel $ARP$, en el que la búsqueda de determinados hosts suele ocurrir a partir de necesitar su ubicación $MAC$, usualmente por refresh automático
+de la tabla $ARP$ de cada dispositivo, independiente de los mensajes anteriores observados.
+Sería muy distinto si se estuvieran observando protocolos orientados a conexión o a transferencia de datos por ejemplo, en lugar
+de pequeñas dosis de información posicional para mantener el funcionamiento de la red.\\
+
+Consecuentemente poseemos todos los parámetros necesarios para poder calcular y analizar la entropía de cada una de las fuentes,
+ya que la cantidad de información que brinda cada símbolo depende inversa-logarítmicamente de su probabilidad de ocurrencia.\\
+
+\subsubsection{Implementacion de herramientas para experimentos y cálculo de entropía y probabilidades}
+Para llevar a cabo los experimentos requeridos por el enunciado se implemento una herramienta utilizando \emph{Python} y la biblioteca de 
+análisis de tráfico \emph{scapy}.
+
+%Aclarar que 2048 es IP, 2054 es ARP, etc... para el que vea lo que devuelve el tp tenga idea. Esto para la fuente S
+
+El sistema de monitorio de tráfico captura todos los paquetes en una red y los guarda en un arreglo para su posterior análisis.
+Luego, se guardan los ips destino, origen más el tipo de operacion (\emph{Who-Has} ó \emph{Is-At}). También nos guardamos las $MAC$ que interactúan
+durante la escucha. Esto puede observarse en el archivo \emph{tp.py}.\\
+
+%poner como se ejecuta el programa: sudo python tp.py y el tiempo de sniff con el que vamos a entregar: ejemplo 20 minutos (1200 segundos).
+
+Luego de cada escucha son calculadas la cantidad de paquetes de cada host distinguiend si son destino o fuente y el tipo d eoperación realizada.
+A partir de estos datos podemos calcular su probabilidad y poder distinguir los nodos de la red en el momento estudiado.\\
+
+Cuánto más dejemos correr el \emph{script} más certero será el modelado de la red, pudiendo determinar qué entidades aparecen 
+muy seguido y brindan poca información, así como qué ocurrencias son anomalías estadísticas y brindan una mayor información. 
+Es esperable que la entropía calculada paso a paso tienda a la entropía de la fuente de información.
+
+\subsection{Capturas sobre distintas LAN}
+%Decir donde hicimos los test... y alguna huevada más de porque corrimos en tales lados...
+
+
+
+
