@@ -7,6 +7,8 @@ S = [] #fuente S
 S1 = [] #fuente S1
 pkts = []
 
+
+
 def proccessPacket(pkt):
 	global S
 	global pkts
@@ -47,6 +49,17 @@ def entropyByType():
 	print "Entropia de la fuente S: {}".format(entropia)
 	print ""
 
+def relacionMacIp(mac):
+	global S1
+	ips = []
+	for x in S1:
+		if mac == x.src:
+			ips.append(x.psrc)
+		if mac == x.dst:
+			ips.append(x.pdst)
+	
+	return list(set(ips))	
+
 def entropyByNodes():
 	global pkts
 	global S1
@@ -58,6 +71,7 @@ def entropyByNodes():
 		nodes_dst = [x.dst for x in S1]
 		nodes = nodes_src + nodes_dst #Por ahora cuento todos los nodos, pero puede hacerse para que cuente solo los src o dst
 		nodes_to_count = {x: nodes.count(x) for x in set(nodes)}
+		macIP = {x: relacionMacIp(x) for x in set(nodes)}
 		S1_length = float(len(nodes))
 		nodes_to_prob = {node: float(count)/S1_length for node, count in nodes_to_count.iteritems()}
 		nodes_to_info = {node: -log(prob, 2) for node, prob in nodes_to_prob.iteritems()}
@@ -66,7 +80,7 @@ def entropyByNodes():
 		print "Nodos: {}".format(nodes_to_count)
 		print "Probabilidad de la fuente S1: {}".format(nodes_to_prob)
 		print 'Entropia de la fuente S: {}'.format(entropia)
-		print ""
+		print 'Relación MAC - IP: {}'.format(macIP)
 		countHostsOfARPPackets(S1)
 	else:
 		print 'No ARP pakets, nothing to be done =('
@@ -112,7 +126,7 @@ def countHostsOfARPPackets(arp_pkts):
 if __name__ == '__main__':
 	print "TP1: Wiretapping"
 
-	sniff_timeout = 5
+	sniff_timeout = 600 #10 minutos
 	if len(sys.argv) > 1:
 		sniff_timeout = int(sys.argv[1])
 	
