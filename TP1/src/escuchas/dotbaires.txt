@@ -1,0 +1,228 @@
+TP1: Wiretapping
+sniff timeout = 600 segs
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.175, at mac a4:31:35:a1:73:23
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.175, at mac a4:31:35:a1:73:23
+Who has? ip 172.50.0.1, tell ip 172.50.1.46, at mac f8:95:c7:cd:94:40
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.62, at mac c0:9f:42:68:50:cf
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+Who has? ip 172.50.0.1, tell ip 172.50.0.62, at mac c0:9f:42:68:50:cf
+The ip 169.254.255.255 is at mac 00:24:14:ef:de:3f, telling ip 172.50.0.62, at mac c0:9f:42:68:50:cf
+The ip 169.254.255.255 is at mac 00:24:14:ef:de:3f, telling ip 172.50.0.62, at mac c0:9f:42:68:50:cf
+The ip 169.254.255.255 is at mac 00:24:14:ef:de:3f, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+The ip 169.254.255.255 is at mac 00:24:14:ef:de:3f, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.147, at mac 00:61:71:eb:3d:0e
+Who has? ip 172.50.2.214, tell ip 172.50.0.5, at mac 74:46:a0:99:31:92
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.175, at mac a4:31:35:a1:73:23
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.3.39, at mac f4:37:b7:e2:aa:03
+Who has? ip 169.254.68.201, tell ip 0.0.0.0, at mac a8:bb:cf:c3:72:1c
+Who has? ip 169.254.68.201, tell ip 169.254.68.201, at mac a8:bb:cf:c3:72:1c
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.175, at mac a4:31:35:a1:73:23
+Who has? ip 172.50.3.97, tell ip 172.50.0.5, at mac 74:46:a0:99:31:92
+Packet has no attribute type
+Who has? ip 172.50.0.1, tell ip 172.50.3.251, at mac 08:3d:88:ce:22:36
+Who has? ip 172.50.0.1, tell ip 172.50.3.251, at mac 08:3d:88:ce:22:36
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.3.251, at mac 08:3d:88:ce:22:36
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.3.251, at mac 08:3d:88:ce:22:36
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.3.10, at mac a4:70:d6:02:fb:7c
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.175, at mac a4:31:35:a1:73:23
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.1.110, at mac 60:be:b5:b5:90:03
+Who has? ip 172.50.3.189, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.3.189, at mac e0:b5:2d:38:c1:0a
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Packet has no attribute type
+Who has? ip 172.50.0.1, tell ip 172.50.3.181, at mac 48:5a:3f:73:2f:f7
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.254, at mac 64:6c:b2:16:ff:6b
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.46, at mac f0:db:e2:6c:08:6a
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.2.3, at mac 50:fc:9f:c1:af:1e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.3, at mac 50:fc:9f:c1:af:1e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.3, at mac 50:fc:9f:c1:af:1e
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.3, at mac 50:fc:9f:c1:af:1e
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.1.110, at mac 60:be:b5:b5:90:03
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.110, at mac 60:be:b5:b5:90:03
+Who has? ip 172.50.0.5, tell ip 172.50.2.3, at mac 50:fc:9f:c1:af:1e
+Who has? ip 172.50.0.1, tell ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Packet has no attribute type
+Who has? ip 172.50.0.1, tell ip 172.50.1.46, at mac f0:db:e2:6c:08:6a
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.46, at mac f0:db:e2:6c:08:6a
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.46, at mac f0:db:e2:6c:08:6a
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+Packet has no attribute type
+Who has? ip 172.50.0.5, tell ip 172.50.3.143, at mac c4:50:06:e9:8f:22
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.1.157, at mac e4:90:7e:bc:6c:44
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.157, at mac e4:90:7e:bc:6c:44
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Packet has no attribute type
+Who has? ip 172.50.0.1, tell ip 172.50.1.29, at mac 70:aa:b2:12:b9:b4
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.1.29, at mac 70:aa:b2:12:b9:b4
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.3.108, at mac 18:af:61:c7:c5:0d
+Who has? ip 172.50.0.1, tell ip 172.50.3.108, at mac 18:af:61:c7:c5:0d
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+Who has? ip 172.50.0.1, tell ip 172.50.2.252, at mac a0:99:9b:5a:d9:56
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.0.66, at mac 38:59:f9:02:c3:bc
+The ip 172.50.0.1 is at mac 08:00:27:2c:4d:4c, telling ip 172.50.2.130, at mac a4:70:d6:07:21:6b
+-----------------------------
+Probabilidad de la fuente S: {2048: 0.9856962316176471, 34525: 0.002297794117647059, 2054: 0.012005974264705883}
+Entropia de la fuente S: 0.117228435964
+-----------------------------
+---Fuente S--- OK
+-----------------------------
+Who_has_src_ips_to_count: {'172.50.3.251': 2, '172.50.3.181': 1, '172.50.0.254': 1, '172.50.1.157': 1, '172.50.1.29': 1, '172.50.3.143': 1, '169.254.68.201': 1, '172.50.0.66': 73, '172.50.2.252': 3, '172.50.0.62': 1, '172.50.2.3': 2, '172.50.3.108': 2, '172.50.0.175': 1, '172.50.1.46': 2, '172.50.0.5': 2, '172.50.3.189': 6, '172.50.1.110': 2, '0.0.0.0': 1, '172.50.3.39': 1}
+Who_has_dst_ips_to_count: {'172.50.2.214': 1, '172.50.0.1': 97, '169.254.68.201': 2, '172.50.3.97': 1, '172.50.0.5': 2, '172.50.3.189': 1}
+Is_at_src_ips_to_count: {'172.50.0.1': 101, '169.254.255.255': 4}
+Is_at_dst_ips_to_count: {'172.50.3.251': 2, '172.50.2.3': 3, '172.50.2.252': 3, '172.50.1.157': 1, '172.50.1.29': 1, '172.50.3.189': 2, '172.50.0.66': 74, '172.50.0.62': 3, '172.50.0.175': 4, '172.50.1.46': 3, '172.50.1.110': 1, '172.50.3.10': 1, '172.50.2.130': 1, '172.50.2.147': 6}
+-----------------------------
+---Fuente S1--- Ok
