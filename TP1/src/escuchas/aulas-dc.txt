@@ -1,0 +1,1877 @@
+TP1: Wiretapping
+sniff timeout = 1800 segs
+
+----------Paquetes ARP capturados----------
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.151, at mac 8c:3a:e3:12:70:82
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Packet has no attribute type
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.157, at mac 64:6c:b2:18:0e:ad
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.157, at mac 64:6c:b2:18:0e:ad
+Who has? ip 10.2.201.224, tell ip 10.2.202.157, at mac 64:6c:b2:18:0e:ad
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.157, at mac 64:6c:b2:18:0e:ad
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.2.203.254, tell ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.2.203.254, tell ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+Who has? ip 10.2.203.254, tell ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.202.175, tell ip 10.2.202.175, at mac 84:8e:df:82:28:a1
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.46, at mac 9c:d9:17:b3:86:fa
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.150, at mac b4:62:93:90:b5:80
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 169.254.165.116, tell ip 169.254.165.116, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.144, at mac b8:98:f7:58:84:e2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+Who has? ip 10.2.203.254, tell ip 10.2.203.119, at mac f0:27:65:1a:89:ec
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.119, at mac f0:27:65:1a:89:ec
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.102, at mac 80:6c:1b:9a:09:3a
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.102, at mac 80:6c:1b:9a:09:3a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.225, at mac 64:6c:b2:a6:4a:42
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.124, at mac 98:0c:82:d2:aa:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.43, at mac e8:91:20:0e:ce:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.43, at mac e8:91:20:0e:ce:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.43, at mac e8:91:20:0e:ce:29
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.43, at mac e8:91:20:0e:ce:29
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.201.224, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.201.224, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.201.224, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.207, at mac e4:40:e2:6d:74:5a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+Who has? ip 10.2.201.224, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Packet has no attribute type
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.192, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.221, at mac 9c:d9:17:db:0d:a5
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.0.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.0.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+The ip 10.2.0.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.201.224, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.124, at mac a4:70:d6:02:85:61
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.92, at mac e8:50:8b:1b:05:4d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.202.249, tell ip 10.2.202.249, at mac 44:74:6c:d9:11:e8
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.249, at mac 44:74:6c:d9:11:e8
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.202.249, tell ip 10.2.202.249, at mac 44:74:6c:d9:11:e8
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.2.203.254, tell ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.83, at mac f8:d0:bd:ba:c4:38
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 169.254.165.116, tell ip 169.254.165.116, at mac 74:e2:8c:02:2a:78
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.2.203.254, tell ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 192.168.1.1, tell ip 192.168.1.106, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 192.168.1.1, tell ip 192.168.1.106, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 192.168.1.1, tell ip 192.168.1.106, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.255.255.254, tell ip 10.200.1.237, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.154, at mac e0:75:7d:66:be:8e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.237, at mac 88:9b:39:26:4f:ed
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.9, at mac e4:12:1d:74:76:bb
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.207, at mac 24:4b:81:fa:ac:72
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.207, at mac 24:4b:81:fa:ac:72
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 169.254.165.116, tell ip 0.0.0.0, at mac 74:e2:8c:02:2a:78
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 169.254.165.116, tell ip 169.254.165.116, at mac 74:e2:8c:02:2a:78
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.110, at mac 30:c7:ae:aa:78:2e
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.110, at mac 30:c7:ae:aa:78:2e
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Packet has no attribute type
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.2.7.254, tell ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.7.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.7.55, at mac cc:c3:ea:18:0e:64
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.125, at mac ac:22:0b:4a:a5:3c
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.156, at mac cc:c3:ea:da:ef:e3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.136, at mac e4:90:7e:4d:e0:5d
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.11, at mac 0c:3e:9f:0f:34:d2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.11, at mac 0c:3e:9f:0f:34:d2
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.11, at mac 0c:3e:9f:0f:34:d2
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.252, at mac e4:40:e2:c1:be:ff
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.11, at mac 0c:3e:9f:0f:34:d2
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.142, at mac f8:e0:79:59:2e:cf
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.11, at mac 0c:3e:9f:0f:34:d2
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.110, at mac 30:c7:ae:aa:78:2e
+Who has? ip 10.2.203.254, tell ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.255, at mac f8:e0:79:ad:52:67
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+Packet has no attribute type
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.201.255, at mac 90:68:c3:d9:ce:04
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.255, at mac 90:68:c3:d9:ce:04
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.253, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Who has? ip 10.0.0.241, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Who has? ip 10.2.203.254, tell ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.201.168, at mac 44:a4:2d:14:b4:e4
+Who has? ip 10.2.203.254, tell ip 10.2.201.168, at mac 44:a4:2d:14:b4:e4
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.168, at mac 44:a4:2d:14:b4:e4
+Who has? ip 10.2.202.175, tell ip 10.2.202.175, at mac 84:8e:df:82:28:a1
+Packet has no attribute type
+Who has? ip 10.2.202.175, tell ip 10.2.202.175, at mac 84:8e:df:82:28:a1
+Who has? ip 10.2.200.194, tell ip 0.0.0.0, at mac 8c:64:22:e5:0b:36
+Who has? ip 10.2.203.254, tell ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.2.200.194, tell ip 0.0.0.0, at mac 8c:64:22:e5:0b:36
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.200.194, tell ip 10.2.200.194, at mac 8c:64:22:e5:0b:36
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.194, at mac 8c:64:22:e5:0b:36
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.28, at mac 74:e2:f5:bb:3a:90
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.28, at mac 74:e2:f5:bb:3a:90
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.2.203.254, tell ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.138, at mac 80:6c:1b:c8:ee:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.174, at mac a0:82:1f:b5:bd:44
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.174, at mac a0:82:1f:b5:bd:44
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.148, at mac 44:a4:2d:01:cd:7f
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.81, at mac cc:c3:ea:45:73:df
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.28, at mac 74:e2:f5:bb:3a:90
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.207, at mac 24:4b:81:fa:ac:72
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.207, at mac 24:4b:81:fa:ac:72
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.207, at mac 24:4b:81:fa:ac:72
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.44, at mac b0:79:94:db:48:99
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.111, at mac 24:db:ed:40:39:8f
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.44, at mac b0:79:94:db:48:99
+Who has? ip 10.2.203.254, tell ip 10.2.201.243, at mac e0:f8:47:44:d6:e2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.243, at mac e0:f8:47:44:d6:e2
+Who has? ip 10.2.203.254, tell ip 10.2.201.243, at mac e0:f8:47:44:d6:e2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.243, at mac e0:f8:47:44:d6:e2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.44, at mac b0:79:94:db:48:99
+Who has? ip 169.254.255.255, tell ip 10.2.201.243, at mac e0:f8:47:44:d6:e2
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.9, at mac 48:59:29:b4:97:b3
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.204, at mac e4:90:7e:bd:ae:29
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.171, at mac e8:39:df:d8:e5:68
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.171, at mac e8:39:df:d8:e5:68
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.171, at mac e8:39:df:d8:e5:68
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+Who has? ip 10.2.203.254, tell ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.228, at mac 60:be:b5:42:a3:0b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.194, at mac 98:f1:70:57:7b:c0
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+Who has? ip 10.2.203.254, tell ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.12, at mac 34:bb:26:e6:b0:2b
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.201.255, at mac 90:68:c3:d9:ce:04
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.255, at mac 90:68:c3:d9:ce:04
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.142, at mac f8:e0:79:59:2e:cf
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.102, at mac f8:e0:79:56:08:a7
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.69, at mac 34:4d:f7:15:46:d3
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.112, at mac e8:91:20:b6:8c:2a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.200.219, at mac cc:fa:00:ed:93:b9
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.219, at mac cc:fa:00:ed:93:b9
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.206, at mac 08:3e:8e:85:89:db
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.81, at mac cc:c3:ea:45:73:df
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.175, at mac 84:8e:df:82:28:a1
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.52.115.121, at mac d0:51:62:77:d2:59
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.28, at mac f8:cf:c5:87:e8:15
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.202.154, at mac 40:78:6a:f2:4a:28
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.154, at mac 40:78:6a:f2:4a:28
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.216, at mac 84:55:a5:9b:4e:da
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.171, at mac e8:39:df:d8:e5:68
+Who has? ip 10.2.203.254, tell ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.97, at mac f8:f1:b6:cd:19:be
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Packet has no attribute type
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.104, at mac ac:f7:f3:5c:64:b9
+Packet has no attribute type
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.60, at mac 8c:3a:e3:10:18:a7
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.171, at mac e8:39:df:d8:e5:68
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Who has? ip 10.2.203.254, tell ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.101, at mac 80:6c:1b:9b:5a:ca
+Who has? ip 10.2.203.254, tell ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.201.224 is at mac 3c:15:c2:bf:05:80, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.239, at mac a4:70:d6:03:0a:81
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+Who has? ip 10.2.203.254, tell ip 10.2.200.193, at mac 1c:56:fe:47:b6:b8
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.193, at mac 1c:56:fe:47:b6:b8
+Who has? ip 10.2.203.254, tell ip 10.2.200.193, at mac 1c:56:fe:47:b6:b8
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.193, at mac 1c:56:fe:47:b6:b8
+Who has? ip 10.2.203.254, tell ip 10.2.200.193, at mac 1c:56:fe:47:b6:b8
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.115, at mac 68:a8:6d:78:d0:be
+Who has? ip 10.2.203.254, tell ip 10.2.201.168, at mac 44:a4:2d:14:b4:e4
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.168, at mac 44:a4:2d:14:b4:e4
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Who has? ip 10.2.203.254, tell ip 10.2.200.85, at mac e4:90:7e:e4:b4:2e
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+Who has? ip 10.2.203.254, tell ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.213, at mac 38:59:f9:02:c3:bc
+Packet has no attribute type
+Packet has no attribute type
+Packet has no attribute type
+Packet has no attribute type
+Who has? ip 10.2.203.254, tell ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.200.171, at mac cc:c3:ea:d8:29:95
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.206, at mac 80:9b:20:0a:3e:1c
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.159, at mac 28:ba:b5:f9:01:96
+Packet has no attribute type
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.201.9, at mac 78:f7:be:98:d6:ff
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.203.118, at mac b8:c7:5d:91:bc:19
+Who has? ip 10.2.203.254, tell ip 10.2.202.37, at mac e4:90:7e:4c:1a:7a
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.37, at mac e4:90:7e:4c:1a:7a
+Who has? ip 10.2.203.254, tell ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.53, at mac 78:3a:84:0b:18:f7
+Who has? ip 10.2.203.254, tell ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+The ip 10.2.203.254 is at mac 00:1b:21:7f:6c:fd, telling ip 10.2.202.102, at mac ac:cf:5c:91:a9:a1
+----------Fin Captura----------
+
+----------Calculando entropia para fuente S----------
+Probabilidad de la fuente S: {2048: 0.9915269606598525, 34525: 0.002169040036561745, 2054: 0.006303999303585808}
+Entropia de la fuente S: 0.0774445116292
+
+----------Calculando entropia para fuente S1----------
+Nodos: {'f8:f1:b6:cd:19:be': 13, '8c:64:22:e5:0b:36': 4, 'cc:c3:ea:45:73:df': 2, '98:0c:82:d2:aa:f7': 13, 'f8:cf:c5:87:e8:15': 50, '34:4d:f7:15:46:d3': 499, '74:e2:8c:02:2a:78': 19, 'cc:c3:ea:d8:29:95': 123, '34:bb:26:e6:b0:2b': 35, '24:4b:81:fa:ac:72': 5, '00:22:6b:5e:82:b3': 3, 'e0:f8:47:44:d6:e2': 5, 'cc:c3:ea:da:ef:e3': 32, '0c:3e:9f:0f:34:d2': 5, 'ff:ff:ff:ff:ff:ff': 757, 'f8:d0:bd:ba:c4:38': 14, 'f8:e0:79:ad:52:67': 44, 'e4:90:7e:4c:1a:7a': 2, 'e4:12:1d:74:76:bb': 55, '80:6c:1b:c8:ee:95': 9, 'cc:fa:00:ed:93:b9': 2, '9c:d9:17:b3:86:fa': 1, 'cc:c3:ea:18:0e:64': 47, '68:05:ca:09:c8:86': 6, '00:1b:21:7f:6c:fd': 929, '88:9b:39:26:4f:ed': 11, 'e8:91:20:0e:ce:29': 4, '78:3a:84:0b:18:f7': 44, '90:68:c3:d9:ce:04': 4, '44:a4:2d:14:b4:e4': 5, 'a4:70:d6:02:85:61': 39, '80:6c:1b:9a:09:3a': 2, 'e0:75:7d:66:be:8e': 6, '8c:3a:e3:12:70:82': 1, '74:e2:f5:bb:3a:90': 3, 'ac:22:0b:4a:a5:3c': 22, '80:6c:1b:9b:5a:ca': 19, 'b4:62:93:90:b5:80': 1, 'e4:40:e2:c1:be:ff': 6, '68:a8:6d:78:d0:be': 20, 'a0:82:1f:b5:bd:44': 2, 'f8:e0:79:59:2e:cf': 2, 'd0:51:62:77:d2:59': 1, '78:f7:be:98:d6:ff': 1, 'e8:50:8b:1b:05:4d': 12, 'e8:39:df:d8:e5:68': 5, '8c:3a:e3:10:18:a7': 13, '28:ba:b5:f9:01:96': 8, 'b8:98:f7:58:84:e2': 1, '84:55:a5:9b:4e:da': 1, '84:8e:df:82:28:a1': 4, 'a4:70:d6:03:0a:81': 8, '3c:15:c2:bf:05:80': 43, '1c:56:fe:47:b6:b8': 5, '48:59:29:b4:97:b3': 1, 'f0:27:65:1a:89:ec': 2, '60:be:b5:42:a3:0b': 88, 'ac:f7:f3:5c:64:b9': 72, 'e8:91:20:b6:8c:2a': 9, 'e4:90:7e:bd:ae:29': 52, 'b0:79:94:db:48:99': 3, '64:6c:b2:18:0e:ad': 4, '24:db:ed:40:39:8f': 6, '44:74:6c:d9:11:e8': 3, '98:f1:70:57:7b:c0': 23, '64:6c:b2:a6:4a:42': 9, 'b8:c7:5d:91:bc:19': 36, '38:59:f9:02:c3:bc': 26, '80:9b:20:0a:3e:1c': 69, '08:3e:8e:85:89:db': 14, 'f8:e0:79:56:08:a7': 1, '9c:d9:17:db:0d:a5': 37, '40:78:6a:f2:4a:28': 2, '44:a4:2d:01:cd:7f': 1, '30:c7:ae:aa:78:2e': 3, 'e4:90:7e:e4:b4:2e': 6, 'e4:40:e2:6d:74:5a': 10, 'ac:cf:5c:91:a9:a1': 8, 'e4:90:7e:4d:e0:5d': 24}
+Probabilidad de la fuente S1: {'f8:f1:b6:cd:19:be': 0.0037399309551208286, '8c:64:22:e5:0b:36': 0.0011507479861910242, 'cc:c3:ea:45:73:df': 0.0005753739930955121, '98:0c:82:d2:aa:f7': 0.0037399309551208286, '34:4d:f7:15:46:d3': 0.14355581127733028, 'cc:c3:ea:d8:29:95': 0.03538550057537399, '34:bb:26:e6:b0:2b': 0.010069044879171462, '24:4b:81:fa:ac:72': 0.0014384349827387803, '00:22:6b:5e:82:b3': 0.0008630609896432681, 'e0:f8:47:44:d6:e2': 0.0014384349827387803, '28:ba:b5:f9:01:96': 0.0023014959723820483, '64:6c:b2:a6:4a:42': 0.002589182968929804, '0c:3e:9f:0f:34:d2': 0.0014384349827387803, 'ff:ff:ff:ff:ff:ff': 0.21777905638665132, 'f8:d0:bd:ba:c4:38': 0.004027617951668585, 'f8:e0:79:ad:52:67': 0.012658227848101266, 'e4:90:7e:4c:1a:7a': 0.0005753739930955121, '48:59:29:b4:97:b3': 0.00028768699654775604, 'cc:fa:00:ed:93:b9': 0.0005753739930955121, '80:6c:1b:c8:ee:95': 0.002589182968929804, 'e4:12:1d:74:76:bb': 0.015822784810126583, '9c:d9:17:b3:86:fa': 0.00028768699654775604, 'cc:c3:ea:18:0e:64': 0.013521288837744535, '68:05:ca:09:c8:86': 0.0017261219792865361, '00:1b:21:7f:6c:fd': 0.2672612197928654, 'cc:c3:ea:da:ef:e3': 0.009205983889528193, 'e8:91:20:0e:ce:29': 0.0011507479861910242, '78:3a:84:0b:18:f7': 0.012658227848101266, '90:68:c3:d9:ce:04': 0.0011507479861910242, 'b0:79:94:db:48:99': 0.0008630609896432681, 'a4:70:d6:02:85:61': 0.011219792865362486, '80:6c:1b:9a:09:3a': 0.0005753739930955121, 'e0:75:7d:66:be:8e': 0.0017261219792865361, '8c:3a:e3:12:70:82': 0.00028768699654775604, '74:e2:f5:bb:3a:90': 0.0008630609896432681, '80:6c:1b:9b:5a:ca': 0.005466052934407365, 'b4:62:93:90:b5:80': 0.00028768699654775604, 'e4:40:e2:c1:be:ff': 0.0017261219792865361, '68:a8:6d:78:d0:be': 0.005753739930955121, 'a0:82:1f:b5:bd:44': 0.0005753739930955121, '9c:d9:17:db:0d:a5': 0.010644418872266973, 'f8:e0:79:59:2e:cf': 0.0005753739930955121, 'd0:51:62:77:d2:59': 0.00028768699654775604, '78:f7:be:98:d6:ff': 0.00028768699654775604, 'e8:50:8b:1b:05:4d': 0.0034522439585730723, '84:55:a5:9b:4e:da': 0.00028768699654775604, '74:e2:8c:02:2a:78': 0.005466052934407365, '8c:3a:e3:10:18:a7': 0.0037399309551208286, '84:8e:df:82:28:a1': 0.0011507479861910242, 'a4:70:d6:03:0a:81': 0.0023014959723820483, '3c:15:c2:bf:05:80': 0.01237054085155351, '1c:56:fe:47:b6:b8': 0.0014384349827387803, '88:9b:39:26:4f:ed': 0.0031645569620253164, 'f0:27:65:1a:89:ec': 0.0005753739930955121, '60:be:b5:42:a3:0b': 0.02531645569620253, 'ac:f7:f3:5c:64:b9': 0.020713463751438434, 'e8:91:20:b6:8c:2a': 0.002589182968929804, 'e4:90:7e:bd:ae:29': 0.014959723820483314, '44:a4:2d:14:b4:e4': 0.0014384349827387803, '64:6c:b2:18:0e:ad': 0.0011507479861910242, '24:db:ed:40:39:8f': 0.0017261219792865361, '44:74:6c:d9:11:e8': 0.0008630609896432681, '98:f1:70:57:7b:c0': 0.006616800920598389, 'b8:c7:5d:91:bc:19': 0.010356731875719217, 'f8:cf:c5:87:e8:15': 0.014384349827387802, '80:9b:20:0a:3e:1c': 0.019850402761795168, 'e8:39:df:d8:e5:68': 0.0014384349827387803, 'b8:98:f7:58:84:e2': 0.00028768699654775604, 'ac:22:0b:4a:a5:3c': 0.006329113924050633, '38:59:f9:02:c3:bc': 0.007479861910241657, '40:78:6a:f2:4a:28': 0.0005753739930955121, '44:a4:2d:01:cd:7f': 0.00028768699654775604, '30:c7:ae:aa:78:2e': 0.0008630609896432681, 'e4:90:7e:e4:b4:2e': 0.0017261219792865361, 'e4:40:e2:6d:74:5a': 0.0028768699654775605, 'e4:90:7e:4d:e0:5d': 0.006904487917146145, 'ac:cf:5c:91:a9:a1': 0.0023014959723820483, '08:3e:8e:85:89:db': 0.004027617951668585, 'f8:e0:79:56:08:a7': 0.00028768699654775604}
+Entropia de la fuente S: 3.88400670894
+Relacion MAC - IP: {'f8:f1:b6:cd:19:be': ['10.2.203.97'], '8c:64:22:e5:0b:36': ['0.0.0.0', '10.2.200.194'], 'cc:c3:ea:45:73:df': ['10.2.202.81'], '98:0c:82:d2:aa:f7': ['10.2.200.124'], 'f8:cf:c5:87:e8:15': ['10.2.203.28'], '34:4d:f7:15:46:d3': ['10.2.202.69', '10.2.202.192'], '74:e2:8c:02:2a:78': ['169.254.165.116', '0.0.0.0'], 'cc:c3:ea:d8:29:95': ['10.2.200.171'], '34:bb:26:e6:b0:2b': ['10.2.203.12'], '24:4b:81:fa:ac:72': ['10.2.200.207'], '00:22:6b:5e:82:b3': ['192.168.1.1'], 'e0:f8:47:44:d6:e2': ['10.2.201.243'], 'cc:c3:ea:da:ef:e3': ['10.2.201.156'], '0c:3e:9f:0f:34:d2': ['10.2.202.11'], 'ff:ff:ff:ff:ff:ff': ['10.2.203.254', '10.0.0.241', '10.0.0.253', '10.2.7.254', '10.2.200.194', '169.254.255.255', '10.2.201.224', '169.254.165.116', '10.2.202.249', '10.2.202.175'], 'f8:d0:bd:ba:c4:38': ['10.2.203.83'], 'f8:e0:79:ad:52:67': ['10.2.202.255'], 'e4:90:7e:4c:1a:7a': ['10.2.202.37'], 'e4:12:1d:74:76:bb': ['10.2.203.9'], '80:6c:1b:c8:ee:95': ['10.2.201.138'], 'cc:fa:00:ed:93:b9': ['10.2.200.219'], '9c:d9:17:b3:86:fa': ['10.2.201.46'], 'cc:c3:ea:18:0e:64': ['10.2.7.55'], '68:05:ca:09:c8:86': ['10.255.255.254'], '00:1b:21:7f:6c:fd': ['10.2.0.254', '10.2.7.254', '10.2.203.254'], '88:9b:39:26:4f:ed': ['10.2.202.237'], 'e8:91:20:0e:ce:29': ['10.2.203.43'], '78:3a:84:0b:18:f7': ['10.2.202.53'], '90:68:c3:d9:ce:04': ['10.2.201.255'], '44:a4:2d:14:b4:e4': ['10.2.201.168'], 'a4:70:d6:02:85:61': ['10.2.202.124'], '80:6c:1b:9a:09:3a': ['10.2.203.102'], 'e0:75:7d:66:be:8e': ['10.2.200.154'], '8c:3a:e3:12:70:82': ['10.2.201.151'], '74:e2:f5:bb:3a:90': ['10.2.201.28'], 'ac:22:0b:4a:a5:3c': ['10.2.200.125'], '80:6c:1b:9b:5a:ca': ['10.2.200.101'], 'b4:62:93:90:b5:80': ['10.2.203.150'], 'e4:40:e2:c1:be:ff': ['10.2.200.252'], '68:a8:6d:78:d0:be': ['10.2.203.115'], 'a0:82:1f:b5:bd:44': ['10.2.203.174'], 'f8:e0:79:59:2e:cf': ['10.2.200.142'], 'd0:51:62:77:d2:59': ['10.52.115.121'], '78:f7:be:98:d6:ff': ['10.2.201.9'], 'e8:50:8b:1b:05:4d': ['10.2.201.92'], 'e8:39:df:d8:e5:68': ['10.2.202.171'], '8c:3a:e3:10:18:a7': ['10.2.202.60'], '28:ba:b5:f9:01:96': ['10.2.201.159'], 'b8:98:f7:58:84:e2': ['10.2.200.144'], '84:55:a5:9b:4e:da': ['10.2.202.216'], '84:8e:df:82:28:a1': ['10.2.202.175'], 'a4:70:d6:03:0a:81': ['10.2.200.239'], '3c:15:c2:bf:05:80': ['10.2.201.224'], '1c:56:fe:47:b6:b8': ['10.2.200.193'], '48:59:29:b4:97:b3': ['10.2.200.9'], 'f0:27:65:1a:89:ec': ['10.2.203.119'], '60:be:b5:42:a3:0b': ['10.2.202.228'], 'ac:f7:f3:5c:64:b9': ['10.2.203.104'], 'e8:91:20:b6:8c:2a': ['10.2.203.112'], 'e4:90:7e:bd:ae:29': ['10.2.202.204'], 'b0:79:94:db:48:99': ['10.2.203.44'], '64:6c:b2:18:0e:ad': ['10.2.202.157'], '24:db:ed:40:39:8f': ['10.2.203.111'], '44:74:6c:d9:11:e8': ['10.2.202.249'], '98:f1:70:57:7b:c0': ['10.2.202.194'], '64:6c:b2:a6:4a:42': ['10.2.201.225'], 'b8:c7:5d:91:bc:19': ['10.200.1.237', '10.2.203.118', '192.168.1.106'], '38:59:f9:02:c3:bc': ['10.2.200.213'], '80:9b:20:0a:3e:1c': ['10.2.202.206'], '08:3e:8e:85:89:db': ['10.2.201.206'], 'f8:e0:79:56:08:a7': ['10.2.200.102'], '9c:d9:17:db:0d:a5': ['10.2.201.221'], '40:78:6a:f2:4a:28': ['10.2.202.154'], '44:a4:2d:01:cd:7f': ['10.2.200.148'], '30:c7:ae:aa:78:2e': ['10.2.200.110'], 'e4:90:7e:e4:b4:2e': ['10.2.200.85'], 'e4:40:e2:6d:74:5a': ['10.2.202.207'], 'ac:cf:5c:91:a9:a1': ['10.2.202.102'], 'e4:90:7e:4d:e0:5d': ['10.2.202.136']}
+----------Resumen de Hosts-----------
+Who_has_src_ips_to_count: {'10.2.200.219': 1, '10.2.200.252': 2, '10.2.202.37': 1, '10.2.200.213': 13, '10.2.200.194': 1, '10.2.203.12': 14, '10.2.201.138': 5, '10.2.202.53': 23, '10.2.202.69': 482, '10.2.7.55': 25, '10.2.202.124': 17, '10.2.203.9': 28, '10.2.200.125': 2, '10.2.200.171': 60, '10.2.202.194': 12, '10.2.200.154': 3, '10.2.202.204': 22, '10.2.202.206': 7, '10.2.200.193': 3, '10.200.1.237': 6, '10.2.203.104': 21, '10.2.202.228': 40, '10.2.202.249': 2, '10.2.202.102': 1, '10.2.203.83': 7, '10.2.202.136': 12, '10.2.201.206': 7, '192.168.1.106': 3, '10.2.202.60': 5, '10.2.200.85': 1, '10.2.201.92': 6, '10.2.203.28': 25, '10.2.201.225': 3, '10.2.202.157': 2, '10.2.201.243': 3, '10.2.200.124': 5, '10.2.201.168': 3, '0.0.0.0': 18, '10.2.202.175': 3, '10.2.200.101': 9, '10.2.203.174': 1, '10.2.200.144': 1, '10.2.203.119': 1, '10.2.203.115': 1, '10.2.203.111': 1, '10.2.202.192': 5, '169.254.165.116': 3, '10.2.201.255': 2, '10.2.202.255': 16, '10.2.203.118': 2, '10.2.203.97': 2, '10.2.202.154': 1}
+Who_has_dst_ips_to_count: {'10.2.203.254': 392, '10.0.0.241': 243, '10.0.0.253': 236, '10.2.7.254': 25, '10.2.200.194': 3, '169.254.255.255': 1, '10.2.201.224': 6, '10.2.202.175': 3, '192.168.1.1': 3, '169.254.165.116': 19, '10.2.202.249': 2, '10.255.255.254': 6}
+Is_at_src_ips_to_count: {'10.2.0.254': 3, '10.2.7.254': 22, '10.2.201.224': 43, '10.2.203.254': 731}
+Is_at_dst_ips_to_count: {'10.2.202.11': 5, '10.2.200.219': 1, '10.2.200.252': 4, '10.2.201.159': 8, '10.2.201.156': 32, '10.2.200.213': 13, '10.2.201.151': 1, '10.2.203.12': 21, '10.2.201.138': 4, '10.2.200.142': 2, '10.2.202.53': 21, '10.2.202.69': 6, '10.2.203.104': 51, '10.2.200.124': 8, '10.2.7.55': 22, '10.2.202.124': 22, '10.2.203.9': 27, '10.2.200.110': 3, '10.2.200.171': 63, '10.2.201.28': 3, '10.2.202.194': 11, '10.2.200.154': 3, '10.2.202.204': 30, '10.2.202.207': 10, '10.2.202.206': 62, '10.2.200.193': 2, '10.2.201.9': 1, '10.2.203.102': 2, '10.2.202.228': 48, '10.2.202.249': 1, '10.2.202.102': 7, '10.2.202.37': 1, '10.2.202.175': 1, '10.2.203.83': 7, '10.2.201.46': 1, '10.2.201.206': 7, '10.2.203.43': 4, '10.2.202.237': 11, '10.2.200.207': 5, '10.2.203.44': 3, '10.2.203.150': 1, '10.2.202.60': 8, '10.2.201.221': 37, '10.2.201.92': 6, '10.2.203.28': 25, '10.2.201.225': 6, '10.2.202.157': 2, '10.2.202.136': 12, '10.2.201.243': 2, '10.2.202.171': 5, '10.2.201.168': 2, '10.52.115.121': 1, '10.2.202.81': 2, '10.2.200.101': 10, '10.2.203.174': 1, '10.2.200.148': 1, '10.2.200.85': 5, '10.2.202.216': 1, '10.2.200.194': 1, '10.2.200.9': 1, '10.2.203.119': 1, '10.2.203.115': 19, '10.2.200.125': 20, '10.2.203.111': 5, '10.2.203.112': 9, '10.2.202.192': 6, '10.2.200.239': 8, '10.2.200.102': 1, '10.2.201.255': 2, '10.2.202.255': 28, '10.2.203.118': 25, '10.2.203.97': 11, '10.2.202.154': 1}
+
+----------Fin----------
