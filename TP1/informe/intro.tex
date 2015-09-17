@@ -7,8 +7,7 @@ observamos de una determinada red como fuente de información. Para entender est
 es necesario primero definir o explayarnos sobre algunas ideas subyacentes.\\
 
 \emph{Definición:} Sea $E$ un suceso que puede presentarse con probabilidad $P(E)$. Cuando $E$ ocurre,
-decimos que hemos recibido $I(E)$ unidades de información. La base en la que calculemos el logaritmo presente
-a continuación determina la denominación de la unidad de información (\emph{bit} al utilizar logaritmo de base 2).
+decimos que hemos recibido $I(E)$ unidades de información.
 $I(E)$ se calcula de acuerdo a la siguiente fórmula:
 
 \begin{center}
@@ -17,6 +16,8 @@ I(E) = \log{\frac{1}{P(E)}} = -\log{P(E)}
 \end{math}
 \end{center}
 
+La base en la que calculemos el logaritmo determina la denominación de la unidad de información (por ejemplo, \emph{bit} al utilizar logaritmo de base 2).
+
 Extraemos de la fórmula que cuanto más escasa sea la posibilidad de que ocurra un evento, mayor es la cantidad de 
 información que nos brinda, independientemente de en qué escala lo estemos midiendo. En este trabajo, utilizaremos
 \emph{bits}, ya que es la unidad de información que manejan los dispositivos digitales (se asume sabido que la funcionalidad
@@ -24,11 +25,11 @@ de dispositivos digitales se basa dígitos con dos posibles estados determinados
 estos dígitos binarios, tenemos dos posibles alternativas equiprobables, siendo la cantidad de información obtenida al
 especificar cualquiera de ellas de \emph{1 bit} de acuerdo a la ecuación de información mostrada).\\
 
-\emph{Definición:} Dado un alfabeto finito y fijo $S$, y alguna ley fija de probabilidad, definimos como \emph{fuente de información} a cualquier entidad que emita símbolos de dicho alfabeto de acuerdo a la ley de probabilidad establecida. Al
+\emph{Definición:} Dado un alfabeto finito y fijo $S$, y una probabilidad fija para cada uno de los simbolos, definimos como \emph{fuente de información} a cualquier entidad que emita símbolos de dicho alfabeto de acuerdo a las probabilidades antes establecidas. Al
 observar una \emph{fuente de información} emitiendo símbolos, lo que obtenemos es una secuencia de dichos simbolos,
 emitidos sucesivamente.\\ 
 
-\emph{Definición:} Para este informe trabajaremos con \emph{fuentes de memoria nula}, en las que los símbolos
+\emph{Definición:} Para este informe supondremos que trabajamos con \emph{fuentes de memoria nula}, esto es, que los símbolos
 que son emitidos son estadísticamente independientes entre sí (cuál es el $n$-avo símbolo no depende de ninguno/s de los $n-1$ símbolos emitidos anteriormente), siendo $P(s)$ la probabilidad de que la fuente emita ese símbolo en cada iteración (entendiendo
 \emph{iteración} como el proceso a través del cual la \emph{fuente} emite un símbolo).\\
 
