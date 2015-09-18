@@ -1,0 +1,291 @@
+TP1: Wiretapping
+sniff timeout = 14400 segs
+
+----------Paquetes ARP capturados----------
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.105, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.105, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.103, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.101, at mac 50:a4:c8:26:85:60
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.103, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.103, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.1, tell ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+The ip 192.168.0.1 is at mac 64:70:02:e0:1d:aa, telling ip 192.168.0.108, at mac 38:59:f9:02:c3:bc
+Who has? ip 192.168.0.101, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 0.0.0.0, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.109, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.1, tell ip 192.168.0.109, at mac 3c:36:3d:8a:bd:9d
+Who has? ip 192.168.0.108, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+The ip 192.168.0.108 is at mac 38:59:f9:02:c3:bc, telling ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+Who has? ip 192.168.0.109, tell ip 192.168.0.1, at mac 64:70:02:e0:1d:aa
+----------Fin Captura----------
+
+----------Calculando entropia para fuente S----------
+Probabilidad de la fuente S: {2048: 0.9930134722291781, 34958: 0.00010016527269995493, 34525: 0.0001502479090499324, 2054: 0.006736114589071969}
+Entropia de la fuente S: 0.0618765077432
+
+----------Calculando entropia para fuente S1----------
+Nodos: {'50:a4:c8:26:85:60': 1, 'ff:ff:ff:ff:ff:ff': 102, '38:59:f9:02:c3:bc': 167, '64:70:02:e0:1d:aa': 250, '3c:36:3d:8a:bd:9d': 18}
+Probabilidad de la fuente S1: {'50:a4:c8:26:85:60': 0.0018587360594795538, 'ff:ff:ff:ff:ff:ff': 0.1895910780669145, '64:70:02:e0:1d:aa': 0.4646840148698885, '38:59:f9:02:c3:bc': 0.3104089219330855, '3c:36:3d:8a:bd:9d': 0.03345724907063197}
+Entropia de la fuente S: 1.67337551699
+Relacion MAC - IP: {'50:a4:c8:26:85:60': ['192.168.0.101'], 'ff:ff:ff:ff:ff:ff': ['192.168.0.105', '192.168.0.1', '192.168.0.101', '192.168.0.103', '192.168.0.109', '192.168.0.108'], '38:59:f9:02:c3:bc': ['192.168.0.108'], '64:70:02:e0:1d:aa': ['192.168.0.1'], '3c:36:3d:8a:bd:9d': ['192.168.0.109', '0.0.0.0']}
+----------Resumen de Hosts-----------
+Who_has_src_ips_to_count: {'192.168.0.109': 7, '192.168.0.1': 83, '192.168.0.101': 1, '192.168.0.108': 80, '0.0.0.0': 11}
+Who_has_dst_ips_to_count: {'192.168.0.105': 2, '192.168.0.1': 84, '192.168.0.101': 9, '192.168.0.103': 3, '192.168.0.109': 77, '192.168.0.108': 7}
+Is_at_src_ips_to_count: {'192.168.0.1': 80, '192.168.0.108': 7}
+Is_at_dst_ips_to_count: {'192.168.0.1': 7, '192.168.0.108': 80}
+
+----------Fin----------
