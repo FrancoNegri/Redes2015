@@ -1,7 +1,32 @@
 \section{Segunda consigna: gráficos y análisis}
 
 \subsection{Red con información previa}
-Aquí irá la red tomada de alguna casa, oficina, o algo que sepamos algo...--------------
+A continuación detallamos la información previa que tenemos de la red:\\
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+IP & Host \\
+\hline \hline
+192.168.1.1 & Router \\ \hline
+192.168.1.3 & Celular (wifi) \\ \hline
+192.168.1.6 & Computadora (wifi)  \\ \hline
+192.168.1.10 & Computadora (wifi) \\ \hline
+192.168.1.36 & Computadora (cable ethernet) \\ \hline
+\end{tabular}
+\caption{Información previa - Red Doméstica}
+\label{tabla informacion}
+\end{center}
+\end{table}
+
+%192.168.1.1 -> ip del router
+%192.168.1.3 -> ip de celular (wifi)
+%192.168.1.6 -> ip de mi computadora (wifi)
+%192.168.1.36 -> computadora conectada por cable ethernet
+%192.168.1.10 -> computadora conectada (wifi) con Windows 7
+
+Presentamos los datos obtenidos de \emph{escuchar} una red doméstica por un período de 4 horas.\\
+\input{graf_casa}
 
 \subsection{Redes sin información previa}
 A continuación se muestra la cantidad de paquetes ARP por host en escala logarítmica. 
