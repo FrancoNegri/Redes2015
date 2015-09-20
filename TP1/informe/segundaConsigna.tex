@@ -57,9 +57,10 @@ Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información
 
 Sobre esta fuente se deben mencionar varias particularidades observadas que resultan interesantes:
 
-La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistemático de toda la red local. Preguntando para cada ip dentro del rango 192.168.1.1-254 a quién pertenece la $MAC$. El equipo en cuestion es una computadora personal con Windows 7 instalado y nos resultó sorprendente observar este comportamiento. La única explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algún virus que intenta propagarse por la red local.
+La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistemático de toda la red local, preguntando para cada ip dentro del rango 192.168.1.1-254 a quién pertenece la $MAC$. El equipo en cuestion es una computadora personal con Windows 7 instalado y nos resultó sorprendente observar este comportamiento. La única explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algúna aplicación de bajo o alto nivel 
+que intenta obtener información de la red local.
 
-La segunda particularidad es que al preguntar alguna computadora por la computadora conectada en 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección $MAC$. En este sentido, el router estaría actuando como un bridge dentro de la red local.
+La segunda particularidad es que al preguntar algún host por la computadora con ip 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección $MAC$. En este sentido, el router estaría actuando como un bridge dentro de la red local.
 
 Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen más who-has (azul) y cuáles son los dispositivos por los que más se hace $request$ de who-has (rojo):
 
