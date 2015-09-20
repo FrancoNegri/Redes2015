@@ -38,9 +38,9 @@ Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fu
 \end{figure}
 \newpage
 
-De esta información, podemos concluir que el simbolo del protocolo ip es mucho mas probable que el simbolo del protocolo arp y el del ipv6. Por lo que con lo que respecta a la fuente de información $S$, el simbolo ip contiene mucha menos información comparado contra los otros dos. El calculo de entropía de la fuente para estos datos es $0.0771$ lo que de manera intuitiva indica que la incertidumbre sobre el proximo simbolo de la fuente es muy baja.
+De esta información, podemos concluir que el símbolo del protocolo ip es mucho más probable que el símbolo del protocolo arp y el del ipv6. Por lo que con lo que respecta a la fuente de información $S$, el símbolo ip contiene mucha menos información comparado contra los otros dos. El cálculo de entropía de la fuente para estos datos es $0.0771$ lo que de manera intuitiva indica que la incertidumbre sobre el práximo símbolo de la fuente es muy baja.
 
-Sobre la misma escucha, como ya adelantamos, simulamos la fuente de informacón $S1$. Sobre esta fuente, los resultados son los que se muestran en el siguiente grafico:
+Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información $S1$. Sobre esta fuente, los resultados son los que se muestran en el siguiente gráfico:
 
 \begin{figure}[h!]
 \centering
@@ -57,11 +57,11 @@ Sobre la misma escucha, como ya adelantamos, simulamos la fuente de informacón 
 
 Sobre esta fuente se deben mencionar varias particularidades observadas que resultan interesantes:
 
-La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistematico de toda la red local. Preguntando para cada ip dentro del rango 192.168.1.1-254 a quien pertenece la mac. El equipo en cuestion es una computadora personal con windows 7 instalado y nos resultó sorprendente observar este comportamiento. El la unica explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algun virus que intenta propagarse por la red local.
+La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistemático de toda la red local. Preguntando para cada ip dentro del rango 192.168.1.1-254 a quién pertenece la $MAC$. El equipo en cuestion es una computadora personal con Windows 7 instalado y nos resultó sorprendente observar este comportamiento. La única explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algún virus que intenta propagarse por la red local.
 
-La segunda particularidad es que al preguntar alguna computadora por la computadora conectada en 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección mac. En este sentido, el router estaría actuando como un bridge dentro de la red local.
+La segunda particularidad es que al preguntar alguna computadora por la computadora conectada en 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección $MAC$. En este sentido, el router estaría actuando como un bridge dentro de la red local.
 
-Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen mas who-has (azul) y cuales son los dispositivos por los que mas se hace request de who-has (rojo):
+Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen más who-has (azul) y cuáles son los dispositivos por los que más se hace $request$ de who-has (rojo):
 
 \begin{figure}[h!]
 \centering
@@ -69,7 +69,7 @@ Aqui con toda la información obtenida, pueden observarse quienes son los dispos
 \caption{Source/Destination paquetes ARP - Operación: Who-Has - Hogar}
 \end{figure}
 
-Y de igual manera, cuales son los que hacen mas is-at (azul) y para quien esta destinado el is-at (rojo):
+Y de igual manera, cuáles son los que hacen más is-at (azul) y para quién esta destinado el is-at (rojo):
 
 \begin{figure}[h!]
 \centering
@@ -77,8 +77,7 @@ Y de igual manera, cuales son los que hacen mas is-at (azul) y para quien esta d
 \caption{Source/Destination paquetes ARP - Operación: Is-At - Hogar}
 \end{figure}
 
-
-En este caso, la entropía de la fuente $S1$ es de $1.98$, lo que suena logico, ya que en este caso hay mas simbolos en el sistema y ademas cada uno tiene una probabilidad considerable de aparecer.
+En este caso, la entropía de la fuente $S1$ es de $1.98$, lo que suena lógico, ya que en este caso hay más símbolos en el sistema y además cada uno tiene una probabilidad considerable de aparecer.
 
 \subsection{Redes sin información previa}
 A continuación se muestra la cantidad de paquetes ARP por host en escala logarítmica. 
@@ -94,4 +93,5 @@ no vimos valor en mostrar nodos con un 0,05 de probabilidad.\\
 \input{graf_aulaDC}
 
 \newpage
-\subsubsection{Red Wifi: A DEFINIR}
+\subsubsection{Red Wifi: Abasto}
+\input{graf_abasto}
