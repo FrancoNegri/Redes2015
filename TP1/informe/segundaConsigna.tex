@@ -29,11 +29,11 @@ IP & Host \\
 %192.168.1.10 -> computadora conectada (wifi) con Windows 7
 
 Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fue lo siguiente:\\
-\input{graf_casa}
+%\input{graf_casa}
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=\textwidth]{./img/probaS_casa.jpg}
+\includegraphics[scale=0.7]{./img/probaS_casa.jpg}
 \caption{Protocolos Distinguidos - Fuente S - Hogar}
 \end{figure}
 \newpage
@@ -44,13 +44,13 @@ Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=\textwidth]{./img/proba_src_casa.jpg}
+\includegraphics[scale=0.7]{./img/proba_src_casa.jpg}
 \caption{Probabilidad Source - Fuente S1(ARP) - Hogar}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=\textwidth]{./img/proba_dst_casa.jpg}
+\includegraphics[scale=0.7]{./img/proba_dst_casa.jpg}
 \caption{Probabilidad Destination - Fuente S1(ARP) - Hogar}
 \end{figure}
 \newpage
@@ -63,9 +63,12 @@ La segunda particularidad es que al preguntar alguna computadora por la computad
 
 Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen más who-has (azul) y cuáles son los dispositivos por los que más se hace $request$ de who-has (rojo):
 
+%fix cabeza para que las imagenes queden donde tienen que ir
+\newpage
+
 \begin{figure}[h!]
 \centering
-\includegraphics[width=\textwidth]{./img/arp_whoHas_casa.jpg}
+\includegraphics[scale=0.5]{./img/arp_whoHas_casa.jpg}
 \caption{Source/Destination paquetes ARP - Operación: Who-Has - Hogar}
 \end{figure}
 
@@ -73,7 +76,7 @@ Y de igual manera, cuáles son los que hacen más is-at (azul) y para quién est
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=\textwidth]{./img/arp_isAt_casa.jpg}
+\includegraphics[scale=0.5]{./img/arp_isAt_casa.jpg}
 \caption{Source/Destination paquetes ARP - Operación: Is-At - Hogar}
 \end{figure}
 
