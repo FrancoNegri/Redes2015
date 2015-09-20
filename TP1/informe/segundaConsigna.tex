@@ -1,7 +1,10 @@
 \section{Segunda consigna: gráficos y análisis}
 
 \subsection{Red con información previa}
-A continuación detallamos la información previa que tenemos de la red:\\
+
+Para tener una base de partida solida sobre la cual extrapolar, la primera captura que realizamos fue en una red hogareña, con un router wifi, de uno de los integrantes del grupo en la que cual pudieramos determinar de manera feaciente cada uno de los dispositivos que se encontraban en la red.
+
+Durante la escucha, cada uno de los dispositivos concervó la siguente ip:\\
 \begin{table}[htb]
 \begin{center}
 \begin{tabular}{|l|l|}
@@ -25,8 +28,57 @@ IP & Host \\
 %192.168.1.36 -> computadora conectada por cable ethernet
 %192.168.1.10 -> computadora conectada (wifi) con Windows 7
 
-Presentamos los datos obtenidos de \emph{escuchar} una red doméstica por un período de 4 horas.\\
+Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fue lo siguiente:\\
 \input{graf_casa}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./img/probaS_casa.jpg}
+\caption{Protocolos Distinguidos - Fuente S - Hogar}
+\end{figure}
+\newpage
+
+De esta información, podemos concluir que el simbolo del protocolo ip es mucho mas probable que el simbolo del protocolo arp y el del ipv6. Por lo que con lo que respecta a la fuente de información $S$, el simbolo ip contiene mucha menos información comparado contra los otros dos. El calculo de entropía de la fuente para estos datos es $0.0771$ lo que de manera intuitiva indica que la incertidumbre sobre el proximo simbolo de la fuente es muy baja.
+
+Sobre la misma escucha, como ya adelantamos, simulamos la fuente de informacón $S1$. Sobre esta fuente, los resultados son los que se muestran en el siguiente grafico:
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./img/proba_src_casa.jpg}
+\caption{Probabilidad Source - Fuente S1(ARP) - Hogar}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./img/proba_dst_casa.jpg}
+\caption{Probabilidad Destination - Fuente S1(ARP) - Hogar}
+\end{figure}
+\newpage
+
+Sobre esta fuente se deben mencionar varias particularidades observadas que resultan interesantes:
+
+La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistematico de toda la red local. Preguntando para cada ip dentro del rango 192.168.1.1-254 a quien pertenece la mac. El equipo en cuestion es una computadora personal con windows 7 instalado y nos resultó sorprendente observar este comportamiento. El la unica explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algun virus que intenta propagarse por la red local.
+
+La segunda particularidad es que al preguntar alguna computadora por la computadora conectada en 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección mac. En este sentido, el router estaría actuando como un bridge dentro de la red local.
+
+Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen mas who-has (azul) y cuales son los dispositivos por los que mas se hace request de who-has (rojo):
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./img/arp_whoHas_casa.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Who-Has - Hogar}
+\end{figure}
+
+Y de igual manera, cuales son los que hacen mas is-at (azul) y para quien esta destinado el is-at (rojo):
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./img/arp_isAt_casa.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Is-At - Hogar}
+\end{figure}
+
+
+En este caso, la entropía de la fuente $S1$ es de $1.98$, lo que suena logico, ya que en este caso hay mas simbolos en el sistema y ademas cada uno tiene una probabilidad considerable de aparecer.
 
 \subsection{Redes sin información previa}
 A continuación se muestra la cantidad de paquetes ARP por host en escala logarítmica. 
