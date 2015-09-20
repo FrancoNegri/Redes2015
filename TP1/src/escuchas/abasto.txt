@@ -1,0 +1,1051 @@
+TP1: Wiretapping
+sniff timeout = 1200 segs
+
+----------Paquetes ARP capturados----------
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.122, at mac 34:4d:f7:15:a8:f0
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.19, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.146.19 is at mac 94:39:e5:57:d4:b4, telling ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.133.79, at mac 14:1a:a3:d5:36:e7
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.48, at mac b0:c5:59:a9:1e:76
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.111, at mac 14:32:d1:b3:c4:5a
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.213, at mac 30:19:66:32:b1:f3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.213, at mac 30:19:66:32:b1:f3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.213, at mac 30:19:66:32:b1:f3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.213, at mac 30:19:66:32:b1:f3
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.133.79, at mac 14:1a:a3:d5:36:e7
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.130, at mac 1c:69:a5:0f:d8:a9
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.111, at mac 14:32:d1:b3:c4:5a
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.111, at mac 14:32:d1:b3:c4:5a
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.111, at mac 14:32:d1:b3:c4:5a
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.0.1, tell ip 172.16.146.19, at mac 94:39:e5:57:d4:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.19, at mac 94:39:e5:57:d4:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.7, at mac 2c:54:cf:f4:56:09
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.61, at mac a8:06:00:2c:e1:c1
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.19, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.146.19 is at mac 94:39:e5:57:d4:b4, telling ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.78, at mac e0:db:10:f6:b2:35
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.78, at mac e0:db:10:f6:b2:35
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.78, at mac e0:db:10:f6:b2:35
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.143.170, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.170, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.170, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.111, at mac 14:32:d1:b3:c4:5a
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.107, at mac 74:e2:8c:fd:09:c4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.107, at mac 74:e2:8c:fd:09:c4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.107, at mac 74:e2:8c:fd:09:c4
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.107, at mac 74:e2:8c:fd:09:c4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.134.56, at mac 50:2d:1d:47:18:de
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.142.74, at mac 80:96:b1:bc:4e:f3
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.78, at mac e0:db:10:f6:b2:35
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.134.131, at mac 44:74:6c:d8:be:c2
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.107, at mac 74:e2:8c:fd:09:c4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.136.53, at mac 40:6f:2a:89:74:c3
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.0.1, tell ip 172.16.146.19, at mac 94:39:e5:57:d4:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.19, at mac 94:39:e5:57:d4:b4
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.123, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.74, at mac 0c:b3:19:fb:d4:51
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.197.215, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.142.74, at mac 80:96:b1:bc:4e:f3
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.131.13, at mac 0c:e7:25:95:d9:b4
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.131.13, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.136.53, at mac 40:6f:2a:89:74:c3
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.237, at mac 34:cd:be:ca:da:15
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.255, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+Who has? ip 172.16.139.35, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.237, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.237, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.35, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.35, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.74, at mac 0c:b3:19:fb:d4:51
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.74, at mac 0c:b3:19:fb:d4:51
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.74, at mac 0c:b3:19:fb:d4:51
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.68, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.146.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.61, at mac a8:06:00:2c:e1:c1
+Who has? ip 172.16.146.19, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.146.19 is at mac 94:39:e5:57:d4:b4, telling ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.94, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.88, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.94, at mac cc:fa:00:ea:68:2b
+Who has? ip 172.16.143.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.19, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.146.19 is at mac 94:39:e5:57:d4:b4, telling ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.134.131, at mac 44:74:6c:d8:be:c2
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.19, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.146.19 is at mac 94:39:e5:57:d4:b4, telling ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.140.34, at mac b0:c5:59:d0:3d:30
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.140.34, at mac b0:c5:59:d0:3d:30
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.247, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.140.34, at mac b0:c5:59:d0:3d:30
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+Who has? ip 172.16.139.104, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.247, at mac 6c:71:d9:b6:10:44
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.255.242 is at mac 00:03:31:2e:00:1b, telling ip 172.16.146.238, at mac 20:6e:9c:00:98:7a
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.133.203, at mac 48:9d:24:89:1e:e7
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.48, at mac b0:c5:59:a9:1e:76
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.203, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.237, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.8, at mac 60:8f:5c:1e:11:b4
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.8, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.61, at mac a8:06:00:2c:e1:c1
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.79, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.78, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.145.74, at mac 0c:b3:19:fb:d4:51
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.146, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.255, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.69, at mac 20:6e:9c:00:56:2e
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.88, at mac ac:36:13:c7:9a:03
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.133.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.237, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.134.131, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.16, at mac 18:3a:2d:43:62:20
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.133.255, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.137.195, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 10.140.72.222, at mac e0:75:7d:65:01:b3
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.144.246, at mac e0:75:7d:65:01:b3
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.106.134, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.140.204, at mac 48:9d:24:50:cb:00
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.16, at mac 18:3a:2d:43:62:20
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.255.242 is at mac 00:03:31:2e:00:1b, telling ip 172.16.147.16, at mac 18:3a:2d:43:62:20
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.138.187, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.34, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.61, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.138.187, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.233, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.133.203, at mac 48:9d:24:89:1e:e7
+Who has? ip 172.16.133.203, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.136.53, at mac 40:6f:2a:89:74:c3
+Who has? ip 172.16.147.69, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.103, at mac d0:92:9e:09:a9:09
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.16, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.138.187, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.213, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.53, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.146.48, at mac b0:c5:59:a9:1e:76
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.138.187, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.103, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.136.29, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.204, at mac a0:f4:19:e9:ab:de
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.7, at mac b4:ef:39:46:25:ab
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.204, at mac a0:f4:19:e9:ab:de
+Who has? ip 172.16.147.204, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.103, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.138.187, at mac e8:94:f6:1e:bf:45
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.135.238, at mac e0:c9:7a:e9:0e:3e
+Who has? ip 172.16.146.48, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.147.103, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.140.198, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.96, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.167, at mac a0:39:f7:0b:8e:20
+Who has? ip 172.16.135.130, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.103, at mac d0:92:9e:09:a9:09
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.143.167, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.238, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.142.74, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.145.58, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.7, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.147.103, at mac d0:92:9e:09:a9:09
+Who has? ip 172.16.144.246, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.135.9, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+The ip 172.16.0.1 is at mac 00:09:0f:09:00:06, telling ip 172.16.143.78, at mac e0:91:53:69:d7:d8
+Who has? ip 172.16.133.203, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+Who has? ip 172.16.139.111, tell ip 172.16.0.1, at mac 00:09:0f:09:00:06
+----------Fin Captura----------
+
+----------Calculando entropia para fuente S----------
+Probabilidad de la fuente S: {2048: 0.9896642370653602, 34525: 8.961644162982435e-05, 2054: 0.010246146493009917}
+Entropia de la fuente S: 0.0837534729933
+
+----------Calculando entropia para fuente S1----------
+Nodos: {'e0:91:53:69:d7:d8': 20, 'b8:6c:e8:d1:ce:25': 23, 'a0:39:f7:07:ff:ec': 19, '44:74:6c:d8:be:c2': 7, '1c:69:a5:0f:d8:a9': 16, '50:2d:1d:47:18:de': 1, '00:09:0f:09:00:06': 1027, '80:96:b1:bc:4e:f3': 9, 'a8:06:00:2c:e1:c1': 28, '6c:71:d9:b6:10:44': 47, '48:9d:24:50:cb:00': 2, 'a0:f4:19:e9:ab:de': 3, 'e8:94:f6:1e:bf:45': 16, '18:3a:2d:43:62:20': 12, '34:4d:f7:15:a8:f0': 1, '14:1a:a3:a0:31:c6': 13, 'e0:db:10:f6:b2:35': 39, '48:9d:24:89:1e:e7': 4, '40:6f:2a:89:74:c3': 17, 'f8:a9:d0:47:eb:b9': 1, 'e0:75:7d:65:01:b3': 35, 'cc:fa:00:ea:68:2b': 2, '68:7f:74:65:57:4f': 1, '30:19:66:32:b1:f3': 9, 'b0:c5:59:a9:1e:76': 23, 'a0:39:f7:0b:8e:20': 2, 'e0:c9:7a:e9:0e:3e': 44, '34:cd:be:ca:da:15': 5, '2c:54:cf:f4:56:09': 16, 'd0:92:9e:09:a9:09': 6, 'ac:36:13:c7:9a:03': 13, '20:6e:9c:00:98:7a': 2, '08:fc:88:2d:94:ab': 3, 'b0:c5:59:d0:3d:30': 34, '94:39:e5:57:d4:b4': 14, '0c:b3:19:fb:d4:51': 20, '40:78:6a:5c:83:80': 10, '74:e2:8c:fd:09:c4': 5, '14:1a:a3:d5:36:e7': 7, 'b4:ef:39:46:25:ab': 68, '20:6e:9c:00:56:2e': 11, 'ff:ff:ff:ff:ff:ff': 377, 'c4:9a:02:30:04:8e': 8, '14:32:d1:b3:c4:5a': 16, '48:59:29:b6:0b:97': 2, 'e8:91:20:55:c6:e9': 1, '0c:e7:25:95:d9:b4': 2, '00:03:31:2e:00:1b': 2, '60:8f:5c:1e:11:b4': 15}
+Probabilidad de la fuente S1: {'e0:91:53:69:d7:d8': 0.009718172983479106, 'b8:6c:e8:d1:ce:25': 0.011175898931000973, 'a0:39:f7:07:ff:ec': 0.00923226433430515, '44:74:6c:d8:be:c2': 0.003401360544217687, 'b4:ef:39:46:25:ab': 0.03304178814382896, '50:2d:1d:47:18:de': 0.00048590864917395527, '00:09:0f:09:00:06': 0.4990281827016521, '80:96:b1:bc:4e:f3': 0.004373177842565598, 'a8:06:00:2c:e1:c1': 0.013605442176870748, '6c:71:d9:b6:10:44': 0.0228377065111759, '48:9d:24:50:cb:00': 0.0009718172983479105, 'a0:f4:19:e9:ab:de': 0.0014577259475218659, 'e8:94:f6:1e:bf:45': 0.007774538386783284, '18:3a:2d:43:62:20': 0.0058309037900874635, '34:4d:f7:15:a8:f0': 0.00048590864917395527, '14:1a:a3:a0:31:c6': 0.006316812439261419, 'e0:db:10:f6:b2:35': 0.018950437317784258, '48:9d:24:89:1e:e7': 0.001943634596695821, '40:6f:2a:89:74:c3': 0.00826044703595724, 'f8:a9:d0:47:eb:b9': 0.00048590864917395527, 'e0:75:7d:65:01:b3': 0.017006802721088437, 'cc:fa:00:ea:68:2b': 0.0009718172983479105, '68:7f:74:65:57:4f': 0.00048590864917395527, '30:19:66:32:b1:f3': 0.004373177842565598, 'b0:c5:59:a9:1e:76': 0.011175898931000973, 'a0:39:f7:0b:8e:20': 0.0009718172983479105, 'e0:c9:7a:e9:0e:3e': 0.021379980563654033, '34:cd:be:ca:da:15': 0.0024295432458697765, '2c:54:cf:f4:56:09': 0.007774538386783284, 'd0:92:9e:09:a9:09': 0.0029154518950437317, 'ac:36:13:c7:9a:03': 0.006316812439261419, '20:6e:9c:00:98:7a': 0.0009718172983479105, '08:fc:88:2d:94:ab': 0.0014577259475218659, 'b0:c5:59:d0:3d:30': 0.01652089407191448, '94:39:e5:57:d4:b4': 0.006802721088435374, '0c:b3:19:fb:d4:51': 0.009718172983479106, '40:78:6a:5c:83:80': 0.004859086491739553, '74:e2:8c:fd:09:c4': 0.0024295432458697765, '0c:e7:25:95:d9:b4': 0.0009718172983479105, '1c:69:a5:0f:d8:a9': 0.007774538386783284, '20:6e:9c:00:56:2e': 0.005344995140913508, 'ff:ff:ff:ff:ff:ff': 0.18318756073858114, 'c4:9a:02:30:04:8e': 0.003887269193391642, '14:32:d1:b3:c4:5a': 0.007774538386783284, '48:59:29:b6:0b:97': 0.0009718172983479105, 'e8:91:20:55:c6:e9': 0.00048590864917395527, '14:1a:a3:d5:36:e7': 0.003401360544217687, '00:03:31:2e:00:1b': 0.0009718172983479105, '60:8f:5c:1e:11:b4': 0.007288629737609329}
+Entropia de la fuente S: 3.03351332675
+Relacion MAC - IP: {'e0:91:53:69:d7:d8': ['172.16.143.78'], 'b8:6c:e8:d1:ce:25': ['172.16.135.9'], 'a0:39:f7:07:ff:ec': ['172.16.145.58'], '44:74:6c:d8:be:c2': ['172.16.134.131'], '1c:69:a5:0f:d8:a9': ['172.16.135.130'], '50:2d:1d:47:18:de': ['172.16.134.56'], '00:09:0f:09:00:06': ['172.16.0.1'], '80:96:b1:bc:4e:f3': ['172.16.142.74'], 'a8:06:00:2c:e1:c1': ['172.16.143.61'], '6c:71:d9:b6:10:44': ['172.16.145.247'], '48:9d:24:50:cb:00': ['172.16.140.204'], 'a0:f4:19:e9:ab:de': ['172.16.147.204'], 'e8:94:f6:1e:bf:45': ['172.16.138.187'], '18:3a:2d:43:62:20': ['172.16.147.16'], '34:4d:f7:15:a8:f0': ['172.16.143.122'], '14:1a:a3:a0:31:c6': ['172.16.136.29'], 'e0:db:10:f6:b2:35': ['172.16.146.78'], '48:9d:24:89:1e:e7': ['172.16.133.203'], '40:6f:2a:89:74:c3': ['172.16.136.53'], 'f8:a9:d0:47:eb:b9': ['172.16.106.134'], 'e0:75:7d:65:01:b3': ['172.16.144.246', '10.140.72.222'], 'cc:fa:00:ea:68:2b': ['172.16.143.94'], '68:7f:74:65:57:4f': ['172.16.197.215'], '30:19:66:32:b1:f3': ['172.16.145.213'], 'b0:c5:59:a9:1e:76': ['172.16.146.48'], 'a0:39:f7:0b:8e:20': ['172.16.143.167'], 'e0:c9:7a:e9:0e:3e': ['172.16.135.238'], '34:cd:be:ca:da:15': ['172.16.145.237'], '2c:54:cf:f4:56:09': ['172.16.143.7'], 'd0:92:9e:09:a9:09': ['172.16.147.103'], 'ac:36:13:c7:9a:03': ['172.16.135.88'], '20:6e:9c:00:98:7a': ['172.16.146.238'], '08:fc:88:2d:94:ab': ['172.16.133.255'], 'b0:c5:59:d0:3d:30': ['172.16.140.34'], '94:39:e5:57:d4:b4': ['172.16.146.19'], '0c:b3:19:fb:d4:51': ['172.16.145.74'], '40:78:6a:5c:83:80': ['172.16.140.198'], '74:e2:8c:fd:09:c4': ['172.16.146.107'], '14:1a:a3:d5:36:e7': ['172.16.133.79'], 'b4:ef:39:46:25:ab': ['172.16.135.7'], '20:6e:9c:00:56:2e': ['172.16.147.69'], 'ff:ff:ff:ff:ff:ff': ['172.16.143.170', '172.16.146.68', '172.16.133.134', '172.16.144.246', '172.16.140.198', '172.16.140.34', '172.16.145.213', '172.16.135.238', '172.16.140.204', '172.16.133.203', '172.16.136.53', '172.16.143.61', '172.16.139.96', '172.16.133.79', '172.16.139.104', '172.16.139.35', '172.16.145.8', '172.16.146.78', '172.16.147.69', '172.16.145.247', '172.16.134.131', '172.16.139.111', '172.16.146.123', '172.16.145.74', '172.16.145.58', '172.16.140.233', '172.16.137.195', '172.16.135.7'], 'c4:9a:02:30:04:8e': ['172.16.140.61'], '14:32:d1:b3:c4:5a': ['172.16.145.111'], '48:59:29:b6:0b:97': ['172.16.133.134'], 'e8:91:20:55:c6:e9': ['172.16.144.146'], '0c:e7:25:95:d9:b4': ['172.16.131.13'], '00:03:31:2e:00:1b': ['172.16.255.242'], '60:8f:5c:1e:11:b4': ['172.16.145.8']}
+----------Resumen de Hosts-----------
+Who_has_src_ips_to_count: {'172.16.146.19': 2, '172.16.0.1': 858}
+Who_has_dst_ips_to_count: {'172.16.143.170': 3, '172.16.146.48': 20, '172.16.146.68': 13, '172.16.135.88': 7, '172.16.145.111': 11, '172.16.0.1': 2, '172.16.147.16': 9, '172.16.142.74': 7, '172.16.140.198': 11, '172.16.140.34': 33, '172.16.145.213': 62, '172.16.140.61': 8, '172.16.145.237': 4, '172.16.143.61': 49, '172.16.135.238': 29, '172.16.139.96': 22, '172.16.133.203': 3, '172.16.136.53': 27, '172.16.138.187': 4, '172.16.147.103': 3, '172.16.140.204': 7, '172.16.146.19': 5, '172.16.133.79': 8, '172.16.135.130': 15, '172.16.144.246': 29, '172.16.135.7': 87, '172.16.139.104': 1, '172.16.139.35': 3, '172.16.143.94': 1, '172.16.143.167': 1, '172.16.146.78': 72, '172.16.144.146': 1, '172.16.147.69': 40, '172.16.145.247': 35, '172.16.133.134': 5, '172.16.134.131': 20, '172.16.145.58': 21, '172.16.146.123': 1, '172.16.146.238': 1, '172.16.133.255': 3, '172.16.140.233': 60, '172.16.147.204': 1, '172.16.197.215': 1, '172.16.143.78': 2, '172.16.145.74': 35, '172.16.106.134': 1, '172.16.135.9': 23, '172.16.136.29': 13, '172.16.139.111': 10, '172.16.145.8': 7, '172.16.137.195': 8, '172.16.143.7': 15, '172.16.131.13': 1}
+Is_at_src_ips_to_count: {'172.16.146.19': 5, '172.16.0.1': 162, '172.16.255.242': 2}
+Is_at_dst_ips_to_count: {'172.16.146.48': 3, '172.16.135.238': 19, '172.16.136.53': 3, '172.16.0.1': 5, '172.16.147.16': 3, '172.16.142.74': 2, '10.140.72.222': 1, '172.16.145.213': 4, '172.16.145.237': 1, '172.16.143.61': 3, '172.16.145.8': 9, '172.16.133.203': 2, '172.16.145.111': 5, '172.16.138.187': 12, '172.16.147.103': 3, '172.16.140.204': 1, '172.16.146.19': 2, '172.16.133.79': 2, '172.16.135.130': 1, '172.16.144.246': 11, '172.16.135.88': 6, '172.16.143.94': 1, '172.16.143.167': 1, '172.16.146.78': 4, '172.16.147.204': 2, '172.16.147.69': 1, '172.16.143.122': 1, '172.16.145.247': 16, '172.16.134.131': 2, '172.16.140.34': 3, '172.16.146.238': 1, '172.16.143.78': 18, '172.16.146.107': 5, '172.16.134.56': 1, '172.16.145.74': 5, '172.16.135.7': 8, '172.16.143.7': 1, '172.16.131.13': 1}
+
+----------Fin----------
