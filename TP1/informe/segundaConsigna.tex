@@ -1,8 +1,13 @@
 \section{Segunda consigna: gráficos y análisis}
+%Aparte de los gráficos detallados en este informe existe una carpeta llamada ”grafos” donde se pueden visualizar los grafos de cada red analizada.
 
 \subsection{Red con información previa}
 
-Para tener una base de partida solida sobre la cual extrapolar, la primera captura que realizamos fue en una red hogareña, con un router wifi, de uno de los integrantes del grupo en la que cual pudieramos determinar de manera feaciente cada uno de los dispositivos que se encontraban en la red.
+Para tener una base de partida sólida sobre la cual extrapolar, la primera captura que realizamos fue en una red hogareña de uno de los integrantes 
+del grupo en la que cual pudieramos determinar de manera feaciente cada uno de los dispositivos que se encontraban en la red. Suponemos que el host
+con una mayor interacción en envíos y recepción de paquetes $ARP$ será el router dado que todos los dispositivos buscarían comunicarse directamente
+con él para acceder a Internet. Con respecto los demás dispositivos suponemos una interacción distribuida, donde se envían espacialmente paquetes $ARP$
+en caso de querer establer alguna conexión o actualizar sus datos.\\
 
 Durante la escucha, cada uno de los dispositivos concervó la siguente ip:\\
 \begin{table}[htb]
@@ -31,16 +36,23 @@ IP & Host \\
 Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fue lo siguiente:\\
 %\input{graf_casa}
 
+\newpage
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.7]{./img/probaS_casa.jpg}
+\includegraphics[scale=0.9]{./img/probaS_casa.jpg}
 \caption{Protocolos Distinguidos - Fuente S - Hogar}
 \end{figure}
-\newpage
 
-De esta información, podemos concluir que el símbolo del protocolo ip es mucho más probable que el símbolo del protocolo arp y el del ipv6. Por lo que con lo que respecta a la fuente de información $S$, el símbolo ip contiene mucha menos información comparado contra los otros dos. El cálculo de entropía de la fuente para estos datos es $0.0771$ lo que de manera intuitiva indica que la incertidumbre sobre el práximo símbolo de la fuente es muy baja.
+De esta información, podemos concluir que el símbolo del protocolo $IPv4$ es mucho más probable que el símbolo del protocolo $ARP$ y que $IPv6$. 
+Por lo que con lo que respecta a la fuente de información $S$, el símbolo $IPv4$ contiene mucha menos información comparado contra los otros dos. 
+El cálculo de entropía de la fuente para estos datos es $0.0771$ lo que de manera intuitiva indica que la incertidumbre sobre el próximo símbolo 
+de la fuente es muy baja dado que es muy probable que el próximo protocolo en aparecer sea $IPv4$.\\
 
-Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información $S1$. Sobre esta fuente, los resultados son los que se muestran en el siguiente gráfico:
+Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información $S1$. 
+La entropía de la fuente $S1$ es de $1.98$. Esto nos parece más lógico, ya que en este caso hay más símbolos en el sistema y 
+además cada uno tiene una probabilidad considerable de aparecer. Aunque, como ya veremos, algunos son más probables que otros.\\
+
+Sobre la fuente $S1$, los resultados son los que se muestran en los siguientes diagramas:
 
 \begin{figure}[h!]
 \centering
@@ -57,14 +69,25 @@ Sobre la misma escucha, como ya adelantamos, simulamos la fuente de información
 
 Sobre esta fuente se deben mencionar varias particularidades observadas que resultan interesantes:
 
-La primera es que la computadora con ip asignada 192.168.1.10 en cierto momento realiza un escaneo sistemático de toda la red local, preguntando para cada ip dentro del rango 192.168.1.1-254 a quién pertenece la $MAC$. El equipo en cuestion es una computadora personal con Windows 7 instalado y nos resultó sorprendente observar este comportamiento. La única explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algúna aplicación de bajo o alto nivel 
-que intenta obtener información de la red local.
+\begin{itemize}
+\item{La computadora con $IP$ asignada 192.168.1.10 en cierto momento realiza un escaneo sistemático de toda la red local, preguntando 
+para cada ip dentro del rango 192.168.1.1-254 a quién pertenece la $MAC$. El equipo en cuestion es una computadora personal con Windows 7 instalado 
+y nos resultó sorprendente observar este comportamiento para una computadora personal. 
+La única explicación a la que pudimos llegar con respecto a esto es que la computadora se encuentra afectada por algún tipo de aplicación 
+de bajo o alto nivel que intenta obtener información de la red local. No esperábamos este resultado este resultado para este dspositivo en particular.}
 
-La segunda particularidad es que al preguntar algún host por la computadora con ip 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) el router responde a la red wifi con su propia dirección $MAC$. En este sentido, el router estaría actuando como un bridge dentro de la red local.
+\item{Al preguntar algún host por la computadora con ip 192.168.1.36 (que se encuentra conectada por un cable ethernet al router) 
+el router responde a la red wifi con su propia dirección $MAC$. En este sentido, el router estaría actuando como un bridge dentro de la red local.}
 
-Aqui con toda la información obtenida, pueden observarse quienes son los dispositivos que hacen más who-has (azul) y cuáles son los dispositivos por los que más se hace $request$ de who-has (rojo):
+\item{El router (192.168.1.1) es el nodo que más se distingue dentro de la red. Es el que mayor interacción tiene en enviar y recibir 
+paquetes $ARP$. Esto era de esperarse dado que es el host al que todos los otros preguntan dado que es el host a través del cuál 
+todos los demás dispositivos acceden a Internet. El router necesita establecer y mantener actualizadas las direcciones $IP$ con las $MAC$ para
+garantizar cierta fluidez en las comunicaciones.}
 
-%fix cabeza para que las imagenes queden donde tienen que ir
+\end{itemize}
+
+A continuación con toda la información obtenida, pueden observarse quiénes son los dispositivos que hacen más $Who-Has$ (azul) y 
+cuáles son los dispositivos por los que más se hace $Request$ de $Who-Has$ (naranja):
 \newpage
 
 \begin{figure}[h!]
@@ -73,7 +96,7 @@ Aqui con toda la información obtenida, pueden observarse quienes son los dispos
 \caption{Source/Destination paquetes ARP - Operación: Who-Has - Hogar}
 \end{figure}
 
-Y de igual manera, cuáles son los que hacen más is-at (azul) y para quién esta destinado el is-at (rojo):
+De igual manera, cuáles son los que hacen más $Is-At$ (azul) y para quién está destinado el $Is-At$ (naranja):
 
 \begin{figure}[h!]
 \centering
@@ -81,7 +104,17 @@ Y de igual manera, cuáles son los que hacen más is-at (azul) y para quién est
 \caption{Source/Destination paquetes ARP - Operación: Is-At - Hogar}
 \end{figure}
 
-En este caso, la entropía de la fuente $S1$ es de $1.98$, lo que suena lógico, ya que en este caso hay más símbolos en el sistema y además cada uno tiene una probabilidad considerable de aparecer.
+De estos gráficos no ha llamado la atención el envío de paquetes $ARP$ de la $IP 0.0.0.0$. Son paquetes de operación $Whi-Has$ al host
+192.168.1.10 solamente. También figura con una interacción alta la $IP$ 192.168.1.6 pero se debe comunicaciones con el router que le envía
+continuamente paquetes $ARP$ consultado por su $MAC$ y la computadora 192.168.1.6 responde de manera automática. Esto también nos ha llamado la 
+atención dado que si bien el router recibe la respuesta ($Is-At)$ del dispositivo hemos detectado que le sigue enviando $Who-Has$ para saber su $MAC$.\\
+
+También observamos que el nodo 192.168.1.36 no envía paquetes $ARP$ al router, pero sabemos que esto es porque está conectada directamente
+a él a través de un cable ethernet.\\
+
+Por último, hemos generado el grafo de la red doméstica. En mismo se encuentra en la carpeta ”grafos” con el nombre $red\_domestica.png$. 
+En dicho grafo se pueden visualizar los principales aspectos detallados anteriormente y nos permite entender mejor la relación entre cada 
+dispositivo en cuánto al envío y recepción de los paquetes $ARP$.
 
 \subsection{Redes sin información previa}
 A continuación se muestra la cantidad de paquetes ARP por host en escala logarítmica. 
