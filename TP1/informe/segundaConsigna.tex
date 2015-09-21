@@ -125,7 +125,9 @@ no vimos valor en mostrar nodos con un 0,05 de probabilidad.\\
 En las tres redes que se detallan a continuación nos hemos conectado por medio Wifi y son redes de espacios públicos sin seguridad. 
 Por tal motivo cualquier dispositivo podría incorporarse a la red en cualquier momento.\\
 
-A continuación mostramos los 3 gráficos de Probabilidad de la fuente $S$ en las tres redes analizadas:
+\subsubsection{Probabilidad Protocolos - Fuente $S$}
+A continuación mostramos los gráficos de Probabilidad de la fuente $S$ en las tres redes analizadas:
+
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{./img/probaS_abasto.jpg}
@@ -145,24 +147,113 @@ A continuación mostramos los 3 gráficos de Probabilidad de la fuente $S$ en la
 \caption{Protocolos Distinguidos - Fuente S - aulasDC}
 \end{figure}
 
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+Red & Entropía - Fuente $S$  \\
+\hline \hline
+Abasto & 0.0837 \\ \hline
+laboratoriosDC & 0.4213 \\ \hline
+aulasDC & 0.0774  \\ \hline
+\end{tabular}
+\caption{Entropía de cada Red analizada - Fuente $S$}
+\label{tabla informacion}
+\end{center}
+\end{table}
+
 En las redes $laboratoriosDC$ y $Abasto$ la probabilidad de paquetes con protocolo $ARP$ es mayor a la red doméstica estudiada anteriormente. 
 Al ser redes abiertas y sin seguridad hay dispositivos saliendo e ingresando constantemente de las redes. Este motivo, sumado además a que 
-son espacios públicos que cubren varios metros, produce que haya más paquetes $ARP$ para ir asignando la $IP$ con la $MAC$ correspondiente. 
+son espacios públicos que cubren varios metros, produce que haya más paquetes $ARP$ para ir asignando la $IP$ con la $MAC$ correspondiente.
 Curiosamente esto no se ha cumplido en la red $aulasDC$. Queriendo encontrar una respuesta suponemos que la mayoría de los dispositivos de la facultad
 se esta conectando a la red $laboratoriosDC$ dado que en la práctica tiene un mejor señal. Al debatirlo, uno de los integrantes del grupo aclaró que
-él se conectaba a la red $laboratoriosDC$ desde las aulas y que la misma tiene una mayor prioridad en su celular que $aulasDC$ para establer conexión.
-Nos hemos basado en este caso para explicar este hecho que nos ha llamado la atención dado que esperábamos una mayor cantidad 
-(en porcentaje) de paquetes $ARP$ en dicha red.\\
+él se conectaba a la red $laboratoriosDC$ desde las aulas y que la misma tiene una mayor prioridad en su celular que $aulasDC$ para establecer 
+conexión. Nos hemos basado en este caso para explicar este hecho que nos ha llamado la atención dado que esperábamos una mayor cantidad 
+(en porcentaje) de paquetes $ARP$ en dicha red. Cuánto mayor es el porcentaje de los paquetes $ARP$ mayor es la entropía de las redes dado que 
+no hemos detectado otros protocolos aparte de los tres detallados. Al haber más paquetes $ARP$ tenemos una mayor incertidumbre sobre el protocolo
+del próximo paquete.\\
 
+\newpage
+\subsubsection{Fuente $S1$ - Paquetes $ARP$}
 
-%\subsubsection{Red Wifi: laboratorioDC - FCEN}
-%\input{graf_laboDC}
+\textbf{Abasto Shopping}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_src_abasto.jpg}
+\caption{Probabilidad Source - Fuente S1(ARP) - Abasto}
+\end{figure}
 
-%\newpage
-%\subsubsection{Red Wifi: aulasDC - FCEN}
-%\input{graf_aulaDC}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_dst_abasto.jpg}
+\caption{Probabilidad Destination - Fuente S1(ARP) - Abasto}
+\end{figure}
+\newpage
 
-%\newpage
-%\subsubsection{Red Wifi: Abasto Shopping}
-%\input{graf_abasto}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_whoHas_abasto.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Who-Has - Abasto}
+\end{figure}
 
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_isAt_abasto.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Is-At - Abasto}
+\end{figure}
+\newpage
+
+\textbf{laboratoriosDC}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_src_laboDC.jpg}
+\caption{Probabilidad Source - Fuente S1(ARP) - laboratoriosDC}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_dst_laboDC.jpg}
+\caption{Probabilidad Destination - Fuente S1(ARP) - laboratoriosDC}
+\end{figure}
+\newpage
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_whoHas_laboDC.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Who-Has - laboratoriosDC}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_isAt_laboDC.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Is-At - laboratoriosDC}
+\end{figure}
+\newpage
+
+\textbf{aulasDC}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_src_aulasDC.jpg}
+\caption{Probabilidad Source - Fuente S1(ARP) - aulasDC}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{./img/proba_dst_aulasDC.jpg}
+\caption{Probabilidad Destination - Fuente S1(ARP) - aulasDC}
+\end{figure}
+\newpage
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_whoHas_aulasDC.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Who-Has - aulasDC}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/arp_isAt_aulasDC.jpg}
+\caption{Source/Destination paquetes ARP - Operación: Is-At - aulasDC}
+\end{figure}
+
+Aca va frutaaaaaaaaa....
