@@ -122,16 +122,47 @@ En el momento de realizar los gráficos, notamos que contabamos con una gran can
 Para mejorar la claridad y permitir apreciar los resultados a gran escala, decidimos filtrar estos casos y expresarlos como $Otros$ ya que 
 no vimos valor en mostrar nodos con un 0,05 de probabilidad.\\
 
-Las tres redes que se detallan a continuación nos hemos conectado por medio Wifi y son redes de espacios públicos sin seguridad. 
+En las tres redes que se detallan a continuación nos hemos conectado por medio Wifi y son redes de espacios públicos sin seguridad. 
 Por tal motivo cualquier dispositivo podría incorporarse a la red en cualquier momento.\\
 
-\subsubsection{Red Wifi: laboratorioDC - FCEN}
-\input{graf_laboDC}
+A continuación mostramos los 3 gráficos de Probabilidad de la fuente $S$ en las tres redes analizadas:
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/probaS_abasto.jpg}
+\caption{Protocolos Distinguidos - Fuente S - Abasto}
+\end{figure}
 
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/probaS_laboDC.jpg}
+\caption{Protocolos Distinguidos - Fuente S - laboratoriosDC}
+\end{figure}
 \newpage
-\subsubsection{Red Wifi: aulasDC - FCEN}
-\input{graf_aulaDC}
 
-\newpage
-\subsubsection{Red Wifi: Abasto Shopping}
-\input{graf_abasto}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{./img/probaS_aulasDC.jpg}
+\caption{Protocolos Distinguidos - Fuente S - aulasDC}
+\end{figure}
+
+En las redes $laboratoriosDC$ y $Abasto$ la probabilidad de paquetes con protocolo $ARP$ es mayor a la red doméstica estudiada anteriormente. 
+Al ser redes abiertas y sin seguridad hay dispositivos saliendo e ingresando constantemente de las redes. Este motivo, sumado además a que 
+son espacios públicos que cubren varios metros, produce que haya más paquetes $ARP$ para ir asignando la $IP$ con la $MAC$ correspondiente. 
+Curiosamente esto no se ha cumplido en la red $aulasDC$. Queriendo encontrar una respuesta suponemos que la mayoría de los dispositivos de la facultad
+se esta conectando a la red $laboratoriosDC$ dado que en la práctica tiene un mejor señal. Al debatirlo, uno de los integrantes del grupo aclaró que
+él se conectaba a la red $laboratoriosDC$ desde las aulas y que la misma tiene una mayor prioridad en su celular que $aulasDC$ para establer conexión.
+Nos hemos basado en este caso para explicar este hecho que nos ha llamado la atención dado que esperábamos una mayor cantidad 
+(en porcentaje) de paquetes $ARP$ en dicha red.\\
+
+
+%\subsubsection{Red Wifi: laboratorioDC - FCEN}
+%\input{graf_laboDC}
+
+%\newpage
+%\subsubsection{Red Wifi: aulasDC - FCEN}
+%\input{graf_aulaDC}
+
+%\newpage
+%\subsubsection{Red Wifi: Abasto Shopping}
+%\input{graf_abasto}
+
