@@ -2,13 +2,18 @@
 
 \subsection{Implementación de \emph{tool} de escucha pasiva}
 Utilizamos el ejemplo provisto por la documentación de \emph{Scapy} y lo visto en clase. 
-El mismo se encuentra modificado para que se almacenen todos los paquetes Ethernet de la red local durante cierto tiempo.
+El mismo se encuentra modificado para que se almacenen todos los paquetes Ethernet de la red local durante cierto tiempo. \\
+
+Para correr el programa se debe ejecutar el comando: \\ \\ \centerline{python src/tp.py T} \\ \\ donde T es el intervalo de tiempo en segundos 
+que correrá la herramienta.
 
 \subsection{Análisis de entropía de la red}
 
 \subsubsection{Fuente de información}
 Definimos $S$ como fuente de información para el trabajo a los protocolos que se pueden identificar a través del campo $type$ 
-proveniente de cada paquete. Es decir, se han tomado como símbolos a cada uno de los protocolos de los $n$ paquetes que se han escuchado en cada red.\\
+proveniente de cada paquete. Es decir, se han tomado como símbolos a cada uno de los protocolos de los $n$ paquetes que se han escuchado en cada red. Nos encontramos con que a muchos paquetes no se les puede extraer el campo $type$, lo cual se debe a que
+el campo correspondiente a ese valor representa otra cosa: la longitud del paquete. Lo que hicimos con dichos paquetes fue
+ignorarlos, ya que nos pareció que la información que pudieran llegar a proveer no sería de gran importancia para el trabajo. \\
 
 Además, para cada captura, se ha definido la fuente de información $S1$ con el objetivo de distinguir los nodos (host) de la red. La fuente $S1$
 está basada únicamente en paquetes $ARP$. Definimos como fuentes de información para el trabajo a las direcciones IP fuente ($F_{src}$) y destino ($F_{dst}$) de los paquetes ARP. 
