@@ -2,10 +2,6 @@
 %Aparte de los gráficos detallados en este informe existe una carpeta llamada ”grafos” donde se pueden visualizar los grafos de cada red analizada.
 
 \subsection{Red con información previa}
-
-\includepdf[pages={1}]{abasto_grafo.pdf}
-
-
 Para tener una base de partida sólida sobre la cual extrapolar, la primera captura que realizamos fue en una red hogareña de uno de los integrantes 
 del grupo en la que cual pudieramos determinar de manera feaciente cada uno de los dispositivos que se encontraban en la red. Suponemos que el host
 con una mayor interacción en envíos y recepción de paquetes $ARP$ será el router dado que todos los dispositivos buscarían comunicarse directamente
@@ -39,7 +35,6 @@ IP & Host \\
 Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fue lo siguiente:\\
 %\input{graf_casa}
 
-\newpage
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.9]{./img/probaS_casa.jpg}
@@ -107,17 +102,17 @@ De igual manera, cuáles son los que hacen más $Is-At$ (azul) y para quién est
 \caption{Source/Destination paquetes ARP - Operación: Is-At - Hogar}
 \end{figure}
 
-De estos gráficos no ha llamado la atención el envío de paquetes $ARP$ de la $IP 0.0.0.0$. Son paquetes de operación $Whi-Has$ al host
+De estos gráficos no ha llamado la atención el envío de paquetes $ARP$ de la $IP$ $0.0.0.0$. Son paquetes de operación $Who-Has$ al host
 192.168.1.10 solamente. También figura con una interacción alta la $IP$ 192.168.1.6 pero se debe comunicaciones con el router que le envía
 continuamente paquetes $ARP$ consultado por su $MAC$ y la computadora 192.168.1.6 responde de manera automática. Esto también nos ha llamado la 
-atención dado que si bien el router recibe la respuesta ($Is-At)$ del dispositivo hemos detectado que le sigue enviando $Who-Has$ para saber su $MAC$.\\
-
+atención dado que si bien el router recibe la respuesta ($Is-At)$ del dispositivo hemos detectado que le sigue enviando $Who-Has$ para saber su $MAC$.
 También observamos que el nodo 192.168.1.36 no envía paquetes $ARP$ al router, pero sabemos que esto es porque está conectada directamente
 a él a través de un cable ethernet.\\
 
-Por último, hemos generado el grafo de la red doméstica. En mismo se encuentra en la carpeta ”grafos” con el nombre $red\_domestica.png$. 
-En dicho grafo se pueden visualizar los principales aspectos detallados anteriormente y nos permite entender mejor la relación entre cada 
-dispositivo en cuánto al envío y recepción de los paquetes $ARP$.
+Por último, hemos generado el grafo de la red doméstica. En dicho grafo se pueden visualizar los principales aspectos 
+detallados anteriormente y nos permite entender mejor la relación entre cada dispositivo en cuánto al envío y recepción de los paquetes $ARP$.
+En el siguiente grafo no se muestran todas las $IP$ que le hace $Who-Has$ el host 192.168.10.6 sino las primeras y las últimas a modo de ejemplo.
+\includepdf[pages={1}]{./img/domestica_grafo.pdf}
 
 \subsection{Redes sin información previa}
 A continuación se muestra la cantidad de paquetes ARP por host en escala logarítmica. 
@@ -193,6 +188,8 @@ del próximo paquete.\\
 \end{figure}
 \newpage
 
+\includepdf[pages={1}]{./img/abasto_grafo.pdf}
+
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{./img/arp_whoHas_abasto.jpg}
@@ -220,6 +217,8 @@ del próximo paquete.\\
 \end{figure}
 \newpage
 
+\includepdf[pages={1}]{./img/laboDC_grafo.pdf}
+
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{./img/arp_whoHas_laboDC.jpg}
@@ -246,6 +245,8 @@ del próximo paquete.\\
 \caption{Probabilidad Destination - Fuente S1(ARP) - aulasDC}
 \end{figure}
 \newpage
+
+\includepdf[pages={1}]{./img/aulasDC_grafo.pdf}
 
 \begin{figure}[h!]
 \centering
