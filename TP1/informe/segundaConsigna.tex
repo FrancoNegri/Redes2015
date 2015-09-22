@@ -310,3 +310,26 @@ Este último seguramente sea el router o gateway de la red de wifi dada la gran 
 Es importante notar que es la misma $IP$ con que nos hemos encontrado en la red $aulasDC$. Al ser redes "hermanas" 
 nos inclina más a suponer que esta $IP$ es el gateway de la red siendo un nodo sumamente solicitado por los demás dispositivos y 
 en constante actualización de sus tablas.\\
+
+
+
+De esta tabla hay que hacer algun comentario...
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+Red & Entropía - Fuente $S1$  \\
+\hline \hline
+Abasto & 3.0335 \\ \hline
+laboratoriosDC & 3.6584 \\ \hline
+aulasDC & 3.8840  \\ \hline
+\end{tabular}
+\caption{Entropía de cada Red analizada - Fuente $S$}
+\label{tabla informacion}
+\end{center}
+\end{table}
+A simple vista me aprece raro que tenga más entropia la de aulas.
+Las del abasto se suponia dado que hay un nodo central donde todo pasa por el.
+La del labo tiene varias subredes. Pero la de aulas tambien se nota un nodo central y nos resulta raro esto.
+
