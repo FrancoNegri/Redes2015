@@ -260,4 +260,52 @@ del próximo paquete.\\
 \caption{Source/Destination paquetes ARP - Operación: Is-At - aulasDC}
 \end{figure}
 
-Aca va frutaaaaaaaaa....
+%Aca va frutaaaaaaaaa....
+En la red $Abasto$ notamos un host que se distingue del resto: 172.16.0.1. Este host es la fuente del 99\% de los paquetes $ARP$ escuchados.
+Cómo se puede ver en el grafo es el centro de la red enviando a todos los demás dispositivos $Who-Has$ para actualizar su tabla que asocia $IP$ con 
+$MAC$. Analizando este comportamiento creemos que este host es el router de la red. Al enviar los $Who-Has$ a todos los dispositivos a estos no 
+les hace falta consultar por la $MAC$ del router dado que al escuchar el $Who-Has$ correspondiente vinculan la $IP$ del router con su $MAC$. Otro nodo 
+distinguido de la red es la $IP$ 172.16.146.19 que se comunica solamente con el que nosotros creemos que es el router. 
+Seguramente sus paquetes $ARP$ se deban a una mala conexión e intenta establecer una conexión en reiteradas oportunidades. 
+Otra opción es que 172.16.0.1 sea el gateway de la red y el router sea 172.16.146.19 dado que se comunica solamente con el gateway que a su vez
+se comunica con el resto de los dispositivos.\\
+Los demás nodos no nos han llamado la atención dado que se comunican con el router recibiendo los $Who-Has$ y al hacerlo conocen la $MAC$ del router
+para luego poder comunicarse con él o simplemente no responden al no estar con una $MAC$ asociada. 
+Solamente nos parece apropiado mencionar a la $IP$ 172.16.255.242 que envía $Is-At$ a dos dispositivos para establercer alguna conexión. Nos parece
+raro no haber escuchado los $Who-Has$ correspondientes a esas respuestas pero podrían ser dispositivos que se encuentran muy lejos nuestro y 
+no haber captado esos paquetes.\\
+Lo que más no ha llamado la atención de esta red es como el router/gateway actualiza sus tablas mediante los paquetes $ARP$ enviando muchos $Who-Has$. 
+Al ser una red pública y sin seguridad cualquier dispositivo se conecta aunque solo sea de paso y luego el router/gateway debe 
+encargarse de establecer si esa $IP$ sigue teniendo una $MAC$ asignada.\\
+
+
+El grafo de la red $aulasDC$ es muy similar a la del $Abasto$. Se puede distinguir un nodo central: 10.2.203.254. 
+Este nodo recibe muchos $Who-Has$ y manda muchos $Is-At$. Esto sucede porque los demás dispostivos necesitan saber la información de este nodo.
+Al recibir los $Who-Has$ de los demás nodos, no hace falta emitirlos dado que actualiza su tabla con la $MAC$ e $IP$ del emisor. Suponemos que este 
+nodo es el router o gateway de la red. Aparte de este nodo nos ha llamado la atención el de $IP$ 10.2.200.69 que pregunta solo por dos disposivos
+los cuales no les responden o no hemos podido escuchar sus respuestas. También hemos notado que existen muchos dispositivos solamente emitiendo o 
+recibiendo paquetes $ARP$. Creemos que se debe a un mal funcionamiento de la red debido a una mala señal dentro de esta red. De la misma manera que 
+en la red anterior, al ser pública puede haber muchos dispositivos conectados y por lo tanto muchas $IPs$ asignadas. Estas últimas deben actualizarse 
+de manera sistemática para favorecer la conectividad y permitir unir a nuevos dispositivos.\\	
+
+
+Por último en la red $laboratoriosDC$ nos hemos encontrado con un cantidad de paquetes $ARP$ que supera ampliamente a las demás redes.
+Cómo nos distinguido podemos mencionar al 10.2.203.254, el cual es el 58\% del destino de los paquetes y el 17\% de la emisión de los mismos.
+Al realizar el grafo de la red no hemos llevado un sorpresa. Se pueden visualizar seis subredes que se forman a partir de la comunicación de paquetes 
+$ARP$. Hemos notado que cuatro subredes tiene como nodo central la siguiente $IP$ 10.2.X.254 y las mismas agrupan a los nodos que tienen $X$ en común, 
+por ejemplo 10.2.5.254 agrupa los dispositivos con $IP$ 10.2.5.xxx, y el nodo 10.2.4.254 agrupa a los que tienen 10.2.4.xxx. Al meditar un poco sobre 
+esta estructura y la información previa que conocemos de estas redes (dado que somos usuarios habituales de las mismas), creemos que cada subred 
+pertenece a un laboratorio/oficina. Cómo no hemos podido escuchar los paquetes $ARP$ que unen todas estas subredes entre si suponemos que están 
+a algún otro dispositivo por cable ethernet y con una $IP$ fija por lo cual no es actualizada. Dentro de estas redes aisladas no ha llamado la 
+atención la 10.2.6.xx. En el grafo podemos ver como la 10.2.6.249 y 10.2.6.254 establecen conexiones con las demás $IPs$ y luego fluyen hacia un 
+mismo nodo. Suponemos que esta red es alguna oficina y están de esta manera organizada por un tema de seguridad. También hemos hallado y vale la pena
+distinguir el nodo 10.2.0.250 que une varias redes aisladas. 
+Es importante notar que en el grafo estamos representado casi todos paquetes $ARP$ pero con la operación $Who-Has$. 
+Este motivo, nos llevá a acentuar la idea de que cada red aislada es un laboratorio donde las computadoras están conectadas a swiches que luego 
+convergen a otro dispositivo que une las redes. También deben estar conectados por cable ethernet los host 10.2.6.249 y 10.2.6.254 al host 
+10.2.6.12 pues hemos escuchado los $Who-Has$ y no sus respuestas.
+Solamente hemos sido testigos de los $Is-At$ que abarcan a nuestro principal nodo distinguido (10.2.203.254). 
+Este último seguramente sea el router o gateway de la red de wifi dada la gran de $Ips$ con la que realiza las interacciones. 
+Es importante notar que es la misma $IP$ con que nos hemos encontrado en la red $aulasDC$. Al ser redes "hermanas" 
+nos inclina más a suponer que esta $IP$ es el gateway de la red siendo un nodo sumamente solicitado por los demás dispositivos y 
+en constante actualización de sus tablas.\\
