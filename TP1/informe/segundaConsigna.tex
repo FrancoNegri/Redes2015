@@ -311,9 +311,7 @@ Es importante notar que es la misma $IP$ con que nos hemos encontrado en la red 
 nos inclina más a suponer que esta $IP$ es el gateway de la red siendo un nodo sumamente solicitado por los demás dispositivos y 
 en constante actualización de sus tablas.\\
 
-
-
-De esta tabla hay que hacer algun comentario...
+Por último mostramos la entropia de la fuente $S1$ de cada una de las redes.\\
 
 \begin{table}[htb]
 \begin{center}
@@ -325,11 +323,17 @@ Abasto & 3.0335 \\ \hline
 laboratoriosDC & 3.6584 \\ \hline
 aulasDC & 3.8840  \\ \hline
 \end{tabular}
-\caption{Entropía de cada Red analizada - Fuente $S$}
+\caption{Entropía de cada Red analizada - Fuente $S1$}
 \label{tabla informacion}
 \end{center}
 \end{table}
-A simple vista me aprece raro que tenga más entropia la de aulas.
-Las del abasto se suponia dado que hay un nodo central donde todo pasa por el.
-La del labo tiene varias subredes. Pero la de aulas tambien se nota un nodo central y nos resulta raro esto.
+
+Al haber estudiado y observado el grafo de la red $Abasto$ nos parece bastante coherente que tenga una menor entropía que las otras redes. Esto se 
+debe a que existe un nodo central que, según pudimos distinguir, une toda la red. Al pasar esto la incertidumbre de la red es menor dado que 
+la probabilidad que aparezca este nodo en los paquetes $ARP$ es mucho mayor a que aparezcan otros. No ha llamado la atención que esto no ocurriese 
+para la red $aulasDC$ que ha sido la de mayor entropía calculada. Si bien hemos podido identificar también un noodo central, al parece hay más 
+incentidumbre en cuánto a los nodos que interactúan en la red. Una suposición es que quizás la red cuente con poca señal wifi provocando que 
+los dispositivos se conecten varias veces hasta establecer una conexión y cambien su $IP$ más frecuentemente. Con lo cuál las probabilidades son un 
+poco más equiprobables en dicha red haciendo que la entropía sea mayor.
+En la red $laboratoriosDC$ al identificar varias subredes la entropía es alta dado que existen varios nodos centrales que unen estas redes. 
 
