@@ -1,5 +1,4 @@
 \section{Segunda consigna: gráficos y análisis}
-%Aparte de los gráficos detallados en este informe existe una carpeta llamada ”grafos” donde se pueden visualizar los grafos de cada red analizada.
 
 \subsection{Red con información previa}
 Para tener una base de partida sólida sobre la cual extrapolar, la primera captura que realizamos fue en una red hogareña de uno de los integrantes 
@@ -33,7 +32,6 @@ IP & Host \\
 %192.168.1.10 -> computadora conectada (wifi) con Windows 7
 
 Lo que pudimos observar simulando la fuente $S$ durante $4$ horas en esta red fue lo siguiente:\\
-%\input{graf_casa}
 
 \begin{figure}[h!]
 \centering
@@ -311,6 +309,15 @@ Es importante notar que es la misma $IP$ con que nos hemos encontrado en la red 
 nos inclina más a suponer que esta $IP$ es el gateway de la red siendo un nodo sumamente solicitado por los demás dispositivos y 
 en constante actualización de sus tablas.\\
 
+Durante las capturas hemos identificado ciertos dispositivos con $IP$ 0.0.0.0. 
+Hemos averiguado esta curiosa $IP$ y una posibilidad la que detallamos a contnuación. Cuando un cliente se conecta a una red que posee un servidor 
+$DHCP$ y quiere recibir una $IP$ de éste, manda una petición con su $ID$ en forma de Broadcast para que lo detecte el servidor. 
+Una vez detectado por el servidor, éste manda una o varias ofertas de $IP$ a ese $ID$. El cliente eventualmente podría recibir la oferta, 
+tomar uno de esos $IP$ y extraer la dirección del router. Como el servidor realiza la misma operación con todos los demás clientes 
+que pidan una $IP$, el cliente debe comprobar que la $IP$ que eligió no la tiene otro dispositivo solicitante. Para esto, envía un paquete 
+$Who-has$ con su $MAC$ y la $IP$ 0.0.0.0 como fuente para evitar confundir las $ARP$ caches en otros hosts. 
+Si el $Who-has$ es respondido, el cliente rechaza el $IP$ elegido para buscarse otra $IP$ no ocupada.\\
+
 Por último mostramos la entropia de la fuente $S1$ de cada una de las redes.\\
 
 \begin{table}[htb]
@@ -336,8 +343,3 @@ incentidumbre en cuánto a los nodos que interactúan en la red. Una suposición
 los dispositivos se conecten varias veces hasta establecer una conexión y cambien su $IP$ más frecuentemente. Con lo cuál las probabilidades son un 
 poco más equiprobables en dicha red haciendo que la entropía sea mayor.
 En la red $laboratoriosDC$ al identificar varias subredes la entropía es alta dado que existen varios nodos centrales que unen estas redes.
-
-Por último durante las capturas, hemos identificado ciertos dispositivos con $IP$ 0.0.0.0 creemos que esto se debe a que cuando un cliente se conecta a una red que posee un servidor DHCP y quiere recibir una IP de éste, manda una petición con su ID en forma de broadcast para que lo detecte el servidor. Una vez detectado por el servidor, éste manda una o varias ofertas de IP a ese ID.
-El cliente eventualmente podría recibir la oferta, tomar uno de esos IP y extraer la dirección del router.
-Como el servidor realiza la misma operación con todos los demás clientes que pidan una IP, el cliente debe comprobar que la IP que eligió no la tiene otro cliente. Para esto, envía un paquete $who-has$ con su MAC adress y la IP 0.0.0.0 como fuente para evitar confundir las ARP caches en otros hosts. Si el $who-has$ es respondido, el cliente rechaza el IP elegido.
-
