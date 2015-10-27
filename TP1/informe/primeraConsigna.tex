@@ -2,13 +2,18 @@
 
 \subsection{Implementación de \emph{tool} de escucha pasiva}
 Utilizamos el ejemplo provisto por la documentación de \emph{Scapy} y lo visto en clase. 
-El mismo se encuentra modificado para que se almacenen todos los paquetes Ethernet de la red local durante cierto tiempo.
+El mismo se encuentra modificado para que se almacenen todos los paquetes Ethernet de la red local durante cierto tiempo. \\
+
+Para correr el programa se debe ejecutar el comando: \\ \\ \centerline{sudo python src/tp.py T} \\ \\ donde $T$ es el intervalo de tiempo en segundos 
+que correrá la herramienta.
 
 \subsection{Análisis de entropía de la red}
 
 \subsubsection{Fuente de información}
 Definimos $S$ como fuente de información para el trabajo a los protocolos que se pueden identificar a través del campo $type$ 
-proveniente de cada paquete. Es decir, se han tomado como símbolos a cada uno de los protocolos de los $n$ paquetes que se han escuchado en cada red.\\
+proveniente de cada paquete. Es decir, se han tomado como símbolos a cada uno de los protocolos de los $n$ paquetes que se han escuchado en cada red. Nos encontramos con que a muchos paquetes no se les puede extraer el campo $type$, lo cual se debe a que
+el campo correspondiente a ese valor representa otra cosa: la longitud del paquete. Lo que hicimos con dichos paquetes fue
+ignorarlos, ya que nos pareció que la información que pudieran llegar a proveer no sería de gran importancia para el trabajo. \\
 
 Además, para cada captura, se ha definido la fuente de información $S1$ con el objetivo de distinguir los nodos (host) de la red. La fuente $S1$
 está basada únicamente en paquetes $ARP$. Definimos como fuentes de información para el trabajo a las direcciones IP fuente ($F_{src}$) y destino ($F_{dst}$) de los paquetes ARP. 
@@ -45,7 +50,14 @@ muy seguido y brindan poca información, así como qué ocurrencias son anomalí
 Es esperable que la entropía calculada paso a paso tienda a la entropía de la fuente de información.
 
 \subsection{Capturas sobre distintas LAN}
-%Decir donde hicimos los test... y alguna huevada más de porque corrimos en tales lados...
+Para la ejercitación en este trabajo corrimos los scripts desarrollados. Por un lado, analizamos
+qué ocurre en una red doméstica y por otro lado qué es lo que ocurre en la red wifi del Abasto Shopping y en las redes de la Facultad: 
+LaboratoriosDC y AulasDC.\\
+
+Hemos tomado dos enfoques distintos para encarar estas redes, de acuerdo a la información que conocíamos de antemano de cada una. Para la red 
+doméstca, partimos sabiendo a qué dispositivo se corresponde cada dirección IP y cómo se relacionan los mismos, permitiéndonos ver cómo se reflejaba 
+esto en el traspaso de paquetes. Para las redes del Abasto y de la Facultad, analizamos el flujo de datos desde una posición completamente ajena 
+a la organización de la red; no sabemos qué dispositivo tiene cada IP ni tenemos suposiciones previas al respecto. 
 
 
 

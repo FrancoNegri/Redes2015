@@ -79,7 +79,7 @@ def entropyByNodes():
 
 		print "Nodos: {}".format(nodes_to_count)
 		print "Probabilidad de la fuente S1: {}".format(nodes_to_prob)
-		print 'Entropia de la fuente S: {}'.format(entropia)
+		print 'Entropia de la fuente S1: {}'.format(entropia)
 		print 'Relacion MAC - IP: {}'.format(macIP)
 		countHostsOfARPPackets(S1)
 	else:
