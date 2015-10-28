@@ -39,20 +39,25 @@ if __name__ == '__main__':
 				hops[hop_number-1].append(hop) 
 			else:
 				print 'No Respondieron'
+			
+		#Mostrar por Pantalla los resultados
+		distance = 1
+		rttAnterior = 0
+		for hops_list in hops:
+			if len(hops_list) > 0:
+				print str(distance),
+				ips = map(lambda hop: hop.ip, hops_list)
+				ip = max(ips, key=ips.count)
+				rtts = map(lambda hop: hop.rtt, hops_list)
+				rtt = numpy.average(rtts)
+				dEstandarRtt = rtt - rttAnterior
+				print ip, rtt, dEstandarRtt 
+				distance += 1
+				rttAnterior = rtt
 
 
 
-	print hops#, numpy.average(rtts[0])
 
-	distance = 1
-	for hops_list in hops:
-		if len(hops_list) > 0:
-			print str(distance),
-			ips = map(lambda hop: hop.ip, hops_list)
-			ip = max(ips, key=ips.count)
-			rtts = map(lambda hop: hop.rtt, hops_list)
-			rtt = numpy.average(rtts)
-			print ip, rtt
-			distance += 1
+	
 
 
