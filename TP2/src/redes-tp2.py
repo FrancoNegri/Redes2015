@@ -16,7 +16,7 @@ class Hop(object):
 if __name__ == '__main__':
 	
 	#hostDst = sys.argv[1]
-	hostDst = '150.244.214.237'
+	hostDst = '150.244.214.237' #Ejemplo es 'www.uam.es'
 	
 	#MAX_CANT_HOPS = sys.argv[2] #traceroute usa 30
 	MAX_CANT_HOPS = 10
@@ -30,12 +30,12 @@ if __name__ == '__main__':
 	for j in range(3):
 
 		for hop_number in range(1,MAX_CANT_HOPS+1):
-			pkt = IP(dst=hostDst, ttl=hop_number) / ICMP() #Ejemplo es 'www.uam.es'
+			pkt = IP(dst=hostDst, ttl=hop_number) / ICMP() 
 			results, unanswered = sr(pkt, timeout=1, verbose=0)
-			if len(results[ICMP]) > 0:
+			if len(results) > 0:
 				#print 'Respondieron'
-				src_ip = results[ICMP][0][1].src
-				rtt = results[ICMP][0][1].time - results[ICMP][0][0].sent_time
+				src_ip = results[0][1].src
+				rtt = results[0][1].time - results[0][0].sent_time
 				hop = Hop(src_ip, rtt)
 				hops[hop_number-1].append(hop) 
 			#else:
