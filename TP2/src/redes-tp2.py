@@ -2,6 +2,7 @@ import pdb
 import time
 import numpy
 import sys
+import scipy.stats
 
 from scapy.all import *
 
@@ -25,6 +26,7 @@ if __name__ == '__main__':
 	for i in range(1,MAX_CANT_HOPS+1):
 		hops.append([])
 	
+	deltas = []
 
 	#while True:
 	for j in range(3):
@@ -42,6 +44,7 @@ if __name__ == '__main__':
 				#print 'No Respondieron'
 			
 		#Mostrar por Pantalla los resultados
+		print "IP | RTT | STD | DeltaRTT"
 		distance = 1
 		rttAnterior = 0
 		for hops_list in hops:
@@ -51,11 +54,18 @@ if __name__ == '__main__':
 				ip = max(ips, key=ips.count)
 				rtts = map(lambda hop: hop.rtt, hops_list)
 				rtt = numpy.average(rtts)
-				dEstandardRtt = rtt - rttAnterior
-				print ip, rtt, dEstandardRtt 
+				desvio = numpy.std(rtts)
+				delta_rtt = rtt - rttAnterior
+				deltas.append(delta_rtt)
+				if delta_rtt < 0:
+					delta_rtt = 0
+				print ip, rtt, desvio, delta_rtt
 				distance += 1
 				rttAnterior = rtt
-		print
+		
+		print 'deltas = {}'.format(deltas)
+		normal_test_result = scipy.stats.normaltest(deltas)
+		print "Normal test result = {}".format(normal_test_result)
 
 
 
