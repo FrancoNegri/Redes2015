@@ -3,6 +3,8 @@ import time
 import numpy
 import sys
 import scipy.stats
+import math
+from scipy.stats import t
 
 from scapy.all import *
 
@@ -15,6 +17,8 @@ class Hop(object):
 
 
 if __name__ == '__main__':
+	alpha = 0.05
+	deltas = []
 	
 	#hostDst = sys.argv[1]
 	hostDst = '150.244.214.237' #Ejemplo es 'www.uam.es'
@@ -26,8 +30,6 @@ if __name__ == '__main__':
 	for i in range(1,MAX_CANT_HOPS+1):
 		hops.append([])
 	
-	deltas = []
-
 	#while True:
 	for j in range(3):
 
@@ -44,12 +46,11 @@ if __name__ == '__main__':
 				#print 'No Respondieron'
 			
 		#Mostrar por Pantalla los resultados
-		print "IP | RTT | STD | DeltaRTT"
+		print "HOP | IP | RTT | STD | DeltaRTT"
 		distance = 1
 		rttAnterior = 0
 		for hops_list in hops:
 			if len(hops_list) > 0:
-				print str(distance),
 				ips = map(lambda hop: hop.ip, hops_list)
 				ip = max(ips, key=ips.count)
 				rtts = map(lambda hop: hop.rtt, hops_list)
@@ -59,18 +60,42 @@ if __name__ == '__main__':
 				if delta_rtt < 0:
 					delta_rtt = 0
 				deltas.append(delta_rtt)
-				print ip, rtt, desvio, delta_rtt
+				print str(distance), ' | ', ip,' | ', rtt,' | ', desvio,' | ', delta_rtt
 				distance += 1
 				rttAnterior = rtt
 		
-		print 'deltas = {}'.format(deltas)
-		normal_test_result = scipy.stats.normaltest(deltas)
-		print "Normal test result = {}".format(normal_test_result)
-		if (normal_test_result[1] < 0.05):
-			print 'Distribucion Normal'
+		normal_test_result = scipy.stats.normaltest(deltas) #(chi-square value, pvalue) 
+		#print "Normal test result = {}".format(normal_test_result)
+		normal = False
+		if (normal_test_result[1] < alpha):
+			print 'Se estima DeltaRTT con Distribucion Normal. OK'
+			normal = True
 		else:
-			print 'No es Distribucion Normal'
+			print 'No se estima DeltaRTT con Distribucion Normal. ERROR'			
+				
+		#Calculamos el Test Grubbs para deltaRtt (array: deltas)
+		if (normal):
+			deltasProm = numpy.average(deltas)
+			desvio = numpy.std(deltas)
+			G = (0,0)
+			salto = 0			
+			for d in deltas:
+				zScore = abs(d-deltasProm)/desvio
+				if (zScore > G[0]):
+					G = (zScore,d,salto)
+				salto = salto+1
+			
+			N = len(deltas)
+			tStudent = t.ppf((1-alpha)/(2*N),N-2,0,1)
+			m2 = math.sqrt((tStudent**2)/(N-2+tStudent**2))
+			m1 = (N-1)/(math.sqrt(N))
+			if (G[0] > m1*m2):
+				print 'Se rechaza Test Grubbs (Estimamos que existen outliers)'
+			else:
+				print 'No se rechaza Test Grubbs (Estimamos que no existen outliers)'
 		print
+		
+		
 		
 
 
