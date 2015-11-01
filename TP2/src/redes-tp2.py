@@ -20,7 +20,7 @@ if __name__ == '__main__':
 	hostDst = '150.244.214.237' #Ejemplo es 'www.uam.es'
 	
 	#MAX_CANT_HOPS = sys.argv[2] #traceroute usa 30
-	MAX_CANT_HOPS = 10
+	MAX_CANT_HOPS = 30
 
 	hops = []
 	for i in range(1,MAX_CANT_HOPS+1):
@@ -55,10 +55,10 @@ if __name__ == '__main__':
 				rtts = map(lambda hop: hop.rtt, hops_list)
 				rtt = numpy.average(rtts)
 				desvio = numpy.std(rtts)
-				delta_rtt = rtt - rttAnterior
-				deltas.append(delta_rtt)
+				delta_rtt = rtt - rttAnterior			
 				if delta_rtt < 0:
 					delta_rtt = 0
+				deltas.append(delta_rtt)
 				print ip, rtt, desvio, delta_rtt
 				distance += 1
 				rttAnterior = rtt
@@ -66,6 +66,12 @@ if __name__ == '__main__':
 		print 'deltas = {}'.format(deltas)
 		normal_test_result = scipy.stats.normaltest(deltas)
 		print "Normal test result = {}".format(normal_test_result)
+		if (normal_test_result[1] < 0.05):
+			print 'Distribucion Normal'
+		else:
+			print 'No es Distribucion Normal'
+		print
+		
 
 
 
