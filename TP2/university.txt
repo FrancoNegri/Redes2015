@@ -1,6 +1,0 @@
-http://www.up.ac.za/ 5.10.110.85 (Sudafrica)
-www.nuol.edu.la 74.220.207.177 (Laos)
-https://www.uni-sofia.bg/ 62.44.96.22 (Bulgaria)
-http://www.uio.no 129.240.8.200 (Noruega)
-http://www.hi.is/ 130.208.165.207 (Islandia)
-
