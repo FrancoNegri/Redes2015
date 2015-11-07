@@ -34,21 +34,27 @@ def distribucionNormal(deltas):
 def grubbsTest(deltas, deltasTotales, alphaInicial):	
 	buscandoOutliers = True
 	rechazoTest = False
-	outliers = []
-			
+	primeraVez = True
+	outliers = []	
+	deltasProm = numpy.average(deltas)
+	desvio = numpy.std(deltas)	
+				
 	while (buscandoOutliers):
-		deltasProm = numpy.average(deltas)
-		desvio = numpy.std(deltas)
 		G = (0,0) #(zScore, deltaRtt)			
-		#zScores = []
+		zScores = []
 		salto = 1			
 		for d in deltas:
 			zScore = abs(d-deltasProm)/desvio
-			#zScores.append(zScore) #Por si necesitamos los zScore de cada hop				
+			zScores.append(zScore) #Por si necesitamos los zScore de cada hop				
 			if (zScore > G[0]):
 				G = (zScore,d)
-			salto += 1 				
-			
+			salto += 1 	
+		
+		if (primeraVez):
+			#Mostramos todos los zScore para luego poder graficarlos
+			primeraVez = False
+			print 'zScores: ', zScores
+				
 		N = len(deltas)
 		tStudent = t.ppf((1-alphaInicial)/N,N-2,0,1)
 		m2 = math.sqrt((tStudent**2)/(N-2+tStudent**2))
@@ -67,10 +73,7 @@ def grubbsTest(deltas, deltasTotales, alphaInicial):
 	
 if __name__ == '__main__':	
 		
-	#hostDst = sys.argv[1]
-	hostDst = '129.240.8.200' #Ejemplo es 'www.uam.es'
-	
-	#MAX_CANT_HOPS = sys.argv[2] #traceroute usa 30
+	hostDst = sys.argv[1]	
 	MAX_CANT_HOPS = 30
 
 	hops = []

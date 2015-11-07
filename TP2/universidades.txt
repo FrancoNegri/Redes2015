@@ -1,0 +1,7 @@
+www.univ-paris5.fr 193.51.86.16 (Francia)
+www.ku.dk 130.226.237.173 (Dinamarca)
+www.ust.hk 143.89.14.2 (Hong Kong)
+www.sydney.edu.au 129.78.5.11 (Australia)
+
+
+
