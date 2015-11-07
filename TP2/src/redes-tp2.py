@@ -118,8 +118,8 @@ if __name__ == '__main__':
 		
 		deltas = []
 		for d in deltasTotales:
-			if d != 0:
-				deltas.append(d)				
+		#	if d != 0:
+			deltas.append(d)				
 				
 		dNormal, alpha = distribucionNormal(deltas)
 				
