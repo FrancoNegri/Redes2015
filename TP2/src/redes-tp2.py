@@ -75,14 +75,16 @@ if __name__ == '__main__':
 		
 	hostDst = sys.argv[1]	
 	MAX_CANT_HOPS = 30
+	monitoreo = 0
 
 	hops = []
 	for i in range(1,MAX_CANT_HOPS+1):
 		hops.append([])
 	
-	#while True:
-	for j in range(3):
-
+	
+	while True:
+	#for j in range(3):
+		monitoreo += 1
 		for hop_number in range(1,MAX_CANT_HOPS+1):
 			pkt = IP(dst=hostDst, ttl=hop_number) / ICMP() 
 			results, unanswered = sr(pkt, timeout=1, verbose=0)
@@ -94,6 +96,7 @@ if __name__ == '__main__':
 				hops[hop_number-1].append(hop) 			
 			
 		#Mostrar por Pantalla los resultados
+		print 'Monitoreo Nro', monitoreo
 		print "HOP | IP | RTT | STD | DeltaRTT"
 		salto = 1
 		rttAnterior = 0
