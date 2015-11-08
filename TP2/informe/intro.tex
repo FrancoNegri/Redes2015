@@ -1,1 +1,20 @@
-\section{Introducción Teórica}
+\section{Introducción}
+
+En este trabajo práctico hemos realizado nuestra propia implementación de la herramienta $traceroute$.
+Esta herramienta permite conocer la ruta de los paquetes en una conexión $end$ $to$ $end$. 
+En nuestra implementación enviamos paquetes $ICMP$ e incrementamos gradualmente el valor de $TTL$ empezando con un valor fijo igual a 1 (uno). 
+Utilizamos esta herramienta para realizar distintas experimentaciones, entre ellas conocer las rutas que atraviesan los paquetes hasta 
+llegar a cuatro universidades localizadas en distintos puntos de la Tierra y calcular los $RTTs$ relativos de los distintos hops.
+Una vez obtenida esta información se utilizará para detectar enlaces submarinos entre continentes. Nos hemos basado que ante grandes variaciones
+de $RTT$ podríamos estar en presencia de un enlace submarino.
+
+\subsubsection{Objetivos utilizados}
+Se utilizarán como objetivos las siguientes universidades. Las mismas están ubicadas en diferentes partes del mundo:
+\begin{enumerate}
+\item Universidad París Descartes - Francia (www.univ-paris5.fr) (IP: 193.51.86.16)
+\item Universidad de Nigeria - Nigeria (www.unn.edu.ng) (IP: 162.144.89.24)
+\item Universidad de Hong Kong - China (www.ust.hk) (IP: 143.89.14.2)
+\item Universidad de Sydney - Australia (www.sydney.edu.au) (IP: 129.78.5.11)
+\end{enumerate}
+
+
