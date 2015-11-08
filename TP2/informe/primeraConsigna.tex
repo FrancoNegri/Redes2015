@@ -12,18 +12,16 @@ Por último, a partir $RTT$ promedio, hemos calculado el valor $\Delta$ $RTT$ de
 \end{equation}
 
 Nuestro principal objetivo es detectar enlaces submarinos. Al ser un enlace punto a punto el $RTT$ debe aumentar de forma significativa al 
-pasar por un enlace submarino dado que no hay nodos intermedios cuando se pasa de un host a otro que están en un continente distinto. Por lo tanto, 
-nos interesa identificar los $outliers$ (valores atípicos) de la distribución de los $RTT$.\\\\ 
+pasar por un enlace submarino dado que no hay nodos intermedios. Por lo tanto, nos interesa identificar los $outliers$ (valores atípicos) de la distribución de los $RTT$.\\\\ 
 Se han tomado los $\Delta$ $RTT$ para detectar los $outliers$ mediante el Test de $Grubbs$\footnote{https://en.wikipedia.org/wiki/Grubbs'\_test\_for\_outliers}. 
-Dicho test asume que los datos iniciales siguen una distribución normal. 
+Dicho test asume que los datos iniciales siguen una distribución normal.\\\\ 
 Por lo tanto hemos utilizado la herramienta $normalTest$\footnote{http://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.normaltest.html} de Scipy. 
-Con esta herramienta calculamos la probabilidad de que los $\Delta$ $RTT$ tengan una distribución normal. En nuestra implementación
-no toleramos una probabilidad menor al 95\%. En caso de lograr una probabilidad mayor se indica el valor $Alpha$ de probabilidad de rechazo de la hipótesis
-que los valores $\Delta$ $RTT$ siguen una distribución normal.
-Una vez que hemos pasado el test de normalidad hemos implementado un test de hipótesis basándonos en el mencionado Test de $Grubbs$. 
-El test de hipótesis sugiere que en caso de existir $outliers$ la hipótesis de que no existen valores atípicos es rechazada. Por lo cual tomaremos como
-$outliers$ aquellos saltos que hagan rechazar la hipótesis. Estos $outliers$, suponemos, son producidos en las mediciones por los enlaces submarinos 
-que alterar el $\Delta$ $RTT$ promedio.\\\\
+Con esta herramienta calculamos la probabilidad de que los $\Delta$ $RTT$ sigan una distribución normal. En nuestra implementación
+no toleramos una probabilidad menor al 95\%. En caso de lograr una probabilidad mayor se indica el valor $Alpha$ de probabilidad de rechazo de la hipótesis.
+Una vez hemos obtenido una buena probabilidad del test de normalidad hemos implementado un test de hipótesis basándonos en el mencionado Test de $Grubbs$. 
+El test de hipótesis sugiere que en caso de existir $outliers$ la hipótesis de que no existen valores atípicos es rechazada. 
+Por lo cual tomaremos como $outliers$ aquellos saltos que hagan rechazar la hipótesis. Estos $outliers$, suponemos, son producidos en las mediciones 
+por los enlaces submarinos que alteran el $\Delta$ $RTT$ promedio.\\\\
 Posteriormente contrastamos lo realizado con la realidad. Mediante la herramienta de geolocalización \footnote{$http://www.plopip.com/$} pudimos 
 ubicar en el mapa la localización aproximada de las direcciones $IP$ que nuestro $traceroute$ nos brinda para poder constatar los si los $outliers$ 
 que hemos detectado corresponden a saltos submarinos y poder estudiar lo que está sucediendo.
