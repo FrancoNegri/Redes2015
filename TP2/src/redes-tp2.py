@@ -31,45 +31,29 @@ def distribucionNormal(deltas):
 			
 	return dNormal, 0	
 
-def grubbsTest(deltas, deltasTotales, alphaInicial):	
-	buscandoOutliers = True
+def grubbsTest(deltas, alphaInicial):	
 	rechazoTest = False
-	primeraVez = True
 	outliers = []	
+	zScores = []
+	
 	deltasProm = numpy.average(deltas)
 	desvio = numpy.std(deltas)	
-				
-	while (buscandoOutliers):
-		G = (0,0) #(zScore, deltaRtt)			
-		zScores = []
-		salto = 1			
-		for d in deltas:
-			zScore = abs(d-deltasProm)/desvio
-			zScores.append(zScore) #Por si necesitamos los zScore de cada hop				
-			if (zScore > G[0]):
-				G = (zScore,d)
-			salto += 1 	
-		
-		if (primeraVez):
-			#Mostramos todos los zScore para luego poder graficarlos
-			primeraVez = False
-			print 'zScores: ', zScores
-				
-		N = len(deltas)
-		tStudent = t.ppf((1-alphaInicial)/N,N-2,0,1)
-		m2 = math.sqrt((tStudent**2)/(N-2+tStudent**2))
-		m1 = (N-1)/(math.sqrt(N))
-		if (G[0] > (m1*m2)):
-			indice = deltasTotales.index(G[1])			
-			outliers.append(indice+1) #indice+1 es el salto
-			deltas.remove(G[1])
-			rechazoTest = True
-			#print 'Se rechaza Test Grubbs (Estimamos que existen outliers)'				
-		else:
-			buscandoOutliers = False
-			#print 'No se rechaza Test Grubbs (Estimamos que no existen outliers)'
+	N = len(deltas)
+	tStudent = t.ppf((1-alphaInicial)/N,N-2,0,1)
+	m2 = math.sqrt((tStudent**2)/(N-2+tStudent**2))
+	m1 = (N-1)/(math.sqrt(N))
 	
-	return rechazoTest , outliers
+	for d in deltas:
+		zScore = abs(d-deltasProm)/desvio
+		zScores.append(zScore) #Por si necesitamos los zScore de cada hop			
+		if (zScore > (m1*m2)):
+			indice = deltas.index(d)			
+			outliers.append(indice+1) #indice+1 es el salto			
+			rechazoTest = True
+	
+	print 'zScores: ', zScores
+	return rechazoTest , outliers	
+	
 	
 if __name__ == '__main__':	
 		
@@ -80,16 +64,13 @@ if __name__ == '__main__':
 	hops = []
 	for i in range(1,MAX_CANT_HOPS+1):
 		hops.append([])
-	
-	
+		
 	while True:
-	#for j in range(3):
 		monitoreo += 1
 		for hop_number in range(1,MAX_CANT_HOPS+1):
 			pkt = IP(dst=hostDst, ttl=hop_number) / ICMP() 
 			results, unanswered = sr(pkt, timeout=1, verbose=0)
-			if len(results) > 0:
-				# Respondieron
+			if len(results) > 0: # Respondieron				
 				src_ip = results[0][1].src
 				rtt = results[0][1].time - results[0][0].sent_time
 				hop = Hop(src_ip, rtt)
@@ -100,7 +81,7 @@ if __name__ == '__main__':
 		print "HOP | IP | RTT | STD | DeltaRTT"
 		salto = 1
 		rttAnterior = 0
-		deltasTotales = []
+		deltas = []
 		for hops_list in hops:
 			if len(hops_list) > 0:
 				ips = map(lambda hop: hop.ip, hops_list)
@@ -111,21 +92,16 @@ if __name__ == '__main__':
 				delta_rtt = rtt - rttAnterior			
 				if delta_rtt < 0:
 					delta_rtt = 0				
-				deltasTotales.append(delta_rtt)
+				deltas.append(delta_rtt)
 				print str(salto), ' | ', ip,' | ', rtt,' | ', desvio,' | ', delta_rtt
 				salto += 1
 				rttAnterior = rtt
-		
-		deltas = []
-		for d in deltasTotales:
-		#	if d != 0:
-			deltas.append(d)				
-				
+						
 		dNormal, alpha = distribucionNormal(deltas)
 				
 		#Calculamos el Test Grubbs para deltaRtt (array: deltas)
 		if (dNormal):
-			rechazoTest, outliers = grubbsTest(deltas, deltasTotales, alpha)
+			rechazoTest, outliers = grubbsTest(deltas, alpha)
 			if (rechazoTest):
 				print 'Se rechaza Test Grubbs (Estimamos que existen outliers)'
 				print 'Los outliers estan en los saltos: ', outliers 				
