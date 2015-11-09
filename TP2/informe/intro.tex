@@ -4,12 +4,17 @@ En el siguiente trabajo práctico hemos realizado nuestra propia implementación
 Esta herramienta permite conocer la ruta de los paquetes en una conexión $end$ $to$ $end$. 
 En nuestra implementación enviamos paquetes $ICMP$ e incrementamos gradualmente el valor de $TTL$ empezando con un valor fijo igual a 1 (uno). 
 Utilizamos la herramienta para realizar distintas experimentaciones, entre ellas conocer las rutas que atraviesan los paquetes hasta que 
-llegan a cuatro universidades localizadas en distintos puntos de la Tierra y calcular los $RTTs$ relativos de los distintos hops.
-Una vez obtenida esta información se utilizará para detectar enlaces submarinos entre continentes. Nos hemos basado que ante grandes variaciones
+llegan a cuatro universidades localizadas en distintos puntos de la Tierra, y calcular los $RTTs$ promedio de los distintos saltos.
+Una vez obtenida esta información se utilizó para detectar enlaces submarinos entre continentes. Nos hemos basado que ante grandes variaciones
 de $RTT$ podríamos estar en presencia de un enlace submarino.
 
-\subsubsection{Objetivos utilizados}
-Se utilizarán como objetivos las siguientes universidades. Las mismas están ubicadas en diferentes partes del mundo:
+\subsubsection{Host Destino}
+Se han utilizado sitios web de universidades dado que es más probable que los servidores web se encuentren en el propio país.
+Las universidades están ubicadas en otros continentes. Antes de los análisis hemos hecho un $ping$ para comprobar 
+el estado de la comunicación de nuestro host con el host destino. De esta manera no sólo hemos comprobado la conexión sino que además hemos obtenido 
+la $IP$ del host destino.\\
+
+Se utilizarán como objetivos las siguientes universidades:
 \begin{enumerate}
 \item Universidad París Descartes - Francia (www.univ-paris5.fr) (IP: 193.51.86.16)
 \item Universidad de Musku - Rusia (www.msu.ru) (IP: 188.44.50.103)

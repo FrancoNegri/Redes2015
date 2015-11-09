@@ -4,24 +4,31 @@ Hemos implementado una versión $traceroute$ en Python utilizando la biblioteca 
 Hicimos uso del campo $Time$ $To$ $Live$ $(TTL)$, el cual fuimos incrementando sucesivamente para alcanzar todos los nodos intermedios en la ruta 
 hacia el host final (en nuestro caso una Universidad). 
 Durante estos envíos almacenamos las $IPs$ de los nodos alcanzados y calculamos el $RTT$ promedio desde el origen hasta cada nodo. 
-Una vez que hemos calculado la media $RTT$ se calculó el desvío estándard para cada salto mediante la herramienta $std$\footnote{http://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html} 
+Una vez que hemos calculado la media $RTT$ se calculó el desvío estandard para cada salto mediante la herramienta $std$\footnote{http://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html} 
 que nos ofrece la biblioteca $Numpy$.
-Por último, a partir $RTT$ promedio, hemos calculado el valor $\Delta$ $RTT$ de cada enlace calculando la diferencia con el salto anterior:
+Por último, a partir del $RTT$ promedio, hemos obtenido el valor $\Delta$ $RTT$ de cada enlace calculando la diferencia con el salto anterior:
 \begin{equation}
  \Delta RTT = RTT_{i} - RTT_{i-1}
 \end{equation}
 
-Nuestro principal objetivo es detectar enlaces submarinos. Al ser un enlace punto a punto el $RTT$ debe aumentar de forma significativa al 
-pasar por un enlace submarino dado que no hay nodos intermedios. Por lo tanto, nos interesa identificar los $outliers$ (valores atípicos) de la distribución de los $RTT$.\\\\ 
+Nuestro principal objetivo es detectar enlaces submarinos. Al ser un enlace punto a punto suponemos que el $RTT$ debe aumentar de forma significativa 
+al pasar por un enlace submarino. Nuestra suposición se basa en que no hay nodos intermedios y se recorre una gran cantidad de kilómetros. Por lo tanto, nos interesa 
+identificar los $outliers$ (valores atípicos) de la distribución de los $RTT$.\\
+
 Se han tomado los $\Delta$ $RTT$ para detectar los $outliers$ mediante el Test de $Grubbs$\footnote{https://en.wikipedia.org/wiki/Grubbs'\_test\_for\_outliers}. 
-Dicho test asume que los datos iniciales siguen una distribución normal.\\\\ 
-Por lo tanto hemos utilizado la herramienta $normalTest$\footnote{http://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.normaltest.html} de Scipy. 
+Dicho test asume que los datos iniciales siguen una distribución normal.\\
+
+Hemos utilizado la herramienta $normalTest$\footnote{http://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.normaltest.html} de Scipy. 
 Con esta herramienta calculamos la probabilidad de que los $\Delta$ $RTT$ sigan una distribución normal. En nuestra implementación
-no toleramos una probabilidad menor al 95\%. En caso de lograr una probabilidad mayor se indica el valor $Alpha$ de probabilidad de rechazo de la hipótesis.
-Una vez hemos obtenido una buena probabilidad del test de normalidad hemos implementado un test de hipótesis basándonos en el mencionado Test de $Grubbs$. 
-El test de hipótesis sugiere que en caso de existir $outliers$ la hipótesis de que no existen valores atípicos es rechazada. 
+no toleramos una probabilidad menor al 95\%. En caso de lograr una probabilidad mayor se indica el valor $Alpha$ de probabilidad de rechazo de la 
+hipótesis.
+Una vez que hemos obtenido una buena probabilidad del test de normalidad se ha procedido a generar un test de hipótesis basándonos en el mencionado Test de $Grubbs$. 
+$Grubbs$ sugiere que en caso de existir $outliers$ la hipótesis de que no existen valores atípicos es rechazada. 
 Por lo cual tomaremos como $outliers$ aquellos saltos que hagan rechazar la hipótesis. Estos $outliers$, suponemos, son producidos en las mediciones 
-por los enlaces submarinos que alteran el $\Delta$ $RTT$ promedio.\\\\
-Posteriormente contrastamos lo realizado con la realidad. Mediante la herramienta de geolocalización \footnote{$http://www.plopip.com/$} pudimos 
-ubicar en el mapa la localización aproximada de las direcciones $IP$ que nuestro $traceroute$ nos brinda para poder constatar los si los $outliers$ 
-que hemos detectado corresponden a saltos submarinos y poder estudiar lo que está sucediendo.
+por los enlaces submarinos que alteran el $\Delta$ $RTT$ promedio.\\
+
+Posteriormente hemos contrastado lo realizado y medido contra la realidad. 
+Mediante la herramienta de geolocalización\footnote{$http://www.plopip.com/$} 
+pudimos ubicar en un mapa la localización aproximada de las direcciones $IP$ que nuestro $traceroute$ nos brinda. 
+Al graficarnos una ruta hasta el host final hemos podido verificar si los $outliers$ que hemos detectado corresponden a 
+enlaces submarinos y comprender con mayor precisión lo que está sucediendo.
