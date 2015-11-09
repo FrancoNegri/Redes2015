@@ -16,13 +16,13 @@ Hop & IP &  RTT promedio (s)  & deltaRTT promedio & Ubicación\\
 \hline 
 4  &  200.89.165.222  &  0.023129620642   &  0.00511081263704 & Argentina\\
 \hline 
-5  &  206.165.31.213  &  0.0159362801966    &  0 & United States\\ xe-8-3-0.ar3.eze1.gblx.net
+5  &  206.165.31.213  &  0.0159362801966    &  0 & United States\\ 
 \hline 
-6  &  67.17.75.66  &  0.153266360362    &  0.137330080166 &  United States\\ po3-20G.ar3.MIA2.gblx.net
+6  &  67.17.75.66  &  0.153266360362    &  0.137330080166 &  United States\\
 \hline 
-7  &  4.68.111.121  &  0.144784176125    &  0 & United States\\ ae5.edge2.miami2.level3.net
+7  &  4.68.111.121  &  0.144784176125    &  0 & United States\\ 
 \hline 
-8  &  4.69.158.253  &  0.267091494686    &  0.122307318561 &  United States\\ ae-114-3504.bar1.Stockholm1.Level3.net
+8  &  4.69.158.253  &  0.267091494686    &  0.122307318561 &  United States\\
 \hline 
 9  &  4.69.158.253  &  0.266443899045    &  0 & United States\\
 \hline 
@@ -40,9 +40,12 @@ Hop & IP &  RTT promedio (s)  & deltaRTT promedio & Ubicación\\
 \hline 
 \end{tabular}
 
-De manera preliminar puede verse que la diferencia temporal entre los diferentes hops permanece en el orden de los $10^-3$ segundos, habiendo tan solo dos casos en que esto no sucede. Primero en el salto $6$ y luego en el salto $8$ que se encuentran en el orden de los $10^-1$ segundos.
+De manera preliminar puede verse que la diferencia temporal entre los diferentes hops permanece en el orden de los $10^-3$ segundos, 
+habiendo tan solo dos casos en que esto no sucede. Primero en el salto $6$ y luego en el salto $8$ que se encuentran en el orden de los $10^-1$ 
+segundos.
 
-A continuación se muestra el grafico de los RTT en cada hop, donde puede verse de manera visual que los saltos temporales mas abruptos se dan en el 6 y en el 8:
+A continuación se muestra el grafico de los RTT en cada hop, donde puede verse de manera visual que los saltos temporales mas abruptos se dan en 
+el 6 y en el 8:
 
 \bigskip
 
@@ -53,7 +56,8 @@ A continuación se muestra el grafico de los RTT en cada hop, donde puede verse 
 \label{Rus_zs}
 \end{figure}
 
-En este momento realizamos el test de hipotesis para ver si podemos aproximar los reslutados de los delta rtt a una distribución normal. El test de hipotesis que podemos aceptar la hipotesis con una confianza de $0.995$
+En este momento realizamos el test de hipotesis para ver si podemos aproximar los reslutados de los delta rtt a una distribución normal. 
+El test de hipotesis que podemos aceptar la hipotesis con una confianza de $0.995$
 
 Por lo tanto calculamos los zScore donde podremos apreciar cuan alejados estan los valores de la media y los graficamos:
 
@@ -78,13 +82,15 @@ De esto conseguimos la siguiente tabla:
 \hline 
 hop & IP & Host name\\
 \hline 
-5  &  206.165.31.213  &  xe-8-3-0.ar3.eze1.gblx.net //
+5  &  206.165.31.213  &  xe-8-3-0.ar3.eze1.gblx.net\\
 \hline 
-6  &  67.17.75.66  &   po3-20G.ar3.MIA2.gblx.net//
+6  &  67.17.75.66  &   po3-20G.ar3.MIA2.gblx.net\\
 \hline 
-7  &  4.68.111.121  & ae5.edge2.miami2.level3.net//
+7  &  4.68.111.121  & ae5.edge2.miami2.level3.net\\
 \hline 
-8  &  4.69.158.253  & ae-114-3504.bar1.Stockholm1.Level3.net//
+8  &  4.69.158.253  & ae-114-3504.bar1.Stockholm1.Level3.net\\
 \end{tabular}
 
-Tomando como hipotesis que los nombres de los hosts se correspondan con su hubicación geografica, entonces nuestros resultados sobre cuales son los saltos submarinos parecerían tener sentido ya que del salto 5 al salto 6 el paquete habría viajado desde argentina hasta miami y del salto 7 al salto 8 el paquete pareceria haber viajado de miami a estocolmo.
+Tomando como hipotesis que los nombres de los hosts se correspondan con su hubicación geografica, entonces nuestros resultados sobre 
+cuales son los saltos submarinos parecerían tener sentido ya que del salto 5 al salto 6 el paquete habría viajado desde argentina hasta miami y 
+del salto 7 al salto 8 el paquete pareceria haber viajado de miami a estocolmo.
