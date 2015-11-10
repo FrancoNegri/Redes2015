@@ -1,7 +1,13 @@
 \subsection{Universidad de Sydney - Australia}
-Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo.
+
+Tanto en la tabla como en los gráficos se puede observar claramente que hubo 2 outliers, uno de los cuales fue el esperado salto transatlántico, desde América hasta Australia, con un RTT promedio que supera los 300 ms, en contraste con los RTT de los hops anteriores que se encontraban por debajo de los 200 ms.
+\\
+El otro outlier detectado se produce cuando se viaja desde Argentina hasta Estados Unidos, lo extraño es que no se detecta en el primer hop hasta dicho país, sino en el segundo. Lo que suponemos que sucede es que la primera IP que se geolocaliza en Estados Unidos, la 207.136.166.241, tiene un servidor alojado en Argentina o en algún país limítrofe, ya que el RTT promedio hasta allí es muy bajo. 
+
 
 \bigskip
+
+Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo.
 
 \begin{tabular}{ | l | c | c | c | c |}
  
@@ -30,7 +36,7 @@ Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo
   \hline
   11  &  129.250.3.123  &  0.185811053765  &  0.000787766356217 & Estados Unidos - Colorado\\
   \hline
-  12  &  204.1.253.166  &  0.185876883959  &  6.58301930679e-05 & Estados Unidos - California\\
+  12  &  204.1.253.166  &  0.185876883959  &  0.0000658301930679 & Estados Unidos - California\\
   \hline
   13  &  202.158.194.172  &  0.3106533885  &  0.124776504542 & Australia - New South Wales\\
   \hline
@@ -82,3 +88,5 @@ A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host d
 \caption{Ruta en Internet - Universidad de Sydney}
 \label{australia_zs}
 \end{figure}
+
+Éste es un claro ejemplo de lo ineficente que pueden llegar a ser las rutas en internet. Tal vez se deba a la falta de enlaces entre América Latina y Australia, ya que un recorrido recto podría haber llegado a ahorrar casi la mitad del tiempo.
