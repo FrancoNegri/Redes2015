@@ -68,15 +68,6 @@ En base a los resultados obtenidos tomamos los $Delta$ $RTT$ y realizamos un tes
 Además realizamos el Test de Grubbs para determinar la existencia de outliers, dichos valores representan a los saltos oceánicos, es decir cuando un paquete realiza un salto de un servidor situado en un continente distinto al del salto anterior.\\
 El test nos dio $Rechadazo$, como era de esperarse, debido a que realizamos una consulta a una Universidad situada en el continente asiatico. Para sorpresa nuestra, detectamos outliers en los Hop 6 y 11. El número 11 efectivamente es un salto oceanico, ya que pasa de un router situado en $Estados Unidos$ a uno en $Hong Kong$. En cambio el número 6 es un salto desde $Argentina$ a $Estados Unidos$, debido a la distancia entre un router y otro nuestro test lo detecta como un salto oceánico, a pesar de no serlo.\\
 
-Presentamos un mapa que muestra la ubicación geográfica de los saltos\\
-
-%\begin{figure}[H]
-%\centering
-%\includegraphics[width=1\textwidth]{graficos/mapa_HongKong.jpg}
-%\caption{Saltos hacia la Universidad de Hong Kong}
-%\label{hongkong_rtt}
-%\end{figure}
-
 
 \begin{figure}[H]
 \centering
@@ -89,5 +80,13 @@ Presentamos un mapa que muestra la ubicación geográfica de los saltos\\
 \centering
 \includegraphics[width=1\textwidth]{graficos/zScore_HongKong.jpg}
 \caption{zScore promedio por hop - Universidad de Hong Kong}
+\label{hongkong_zs}
+\end{figure}
+
+A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host destino ubicado en Hong Kong - China:
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{graficos/mapa_hongKong.jpg}
+\caption{Ruta en Internet - Universidad de Hong Kong}
 \label{hongkong_zs}
 \end{figure}
