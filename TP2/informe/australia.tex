@@ -1,14 +1,7 @@
 \subsection{Universidad de Sydney - Australia}
-
-Tanto en la tabla como en los gráficos se puede observar claramente que hubo 2 outliers, uno de los cuales fue el esperado salto transatlántico, desde América hasta Australia, con un RTT promedio que supera los 300 ms, en contraste con los RTT de los hops anteriores que se encontraban por debajo de los 200 ms.
-\\
-El otro outlier detectado se produce cuando se viaja desde Argentina hasta Estados Unidos, lo extraño es que no se detecta en el primer hop hasta dicho país, sino en el segundo. Lo que suponemos que sucede es que la primera IP que se geolocaliza en Estados Unidos, la 207.136.166.241, tiene un servidor alojado en Argentina o en algún país limítrofe, ya que el RTT promedio hasta allí es muy bajo. 
-
-
-\bigskip
-
 Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo.
 
+\bigskip
 \begin{tabular}{ | l | c | c | c | c |}
  
   \hline                 
@@ -62,10 +55,20 @@ Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo
   \hline
   24  &  129.78.5.11  &  0.339367595158  &  0.00332829513048 & Australia - Sydney\\
   \hline
-
 \end{tabular}
-
 \bigskip
+
+Con estos datos hemos obtenido que los $\Delta$ $RTT$ siguen una distribución normal con una probabilidad del 99,5$\%$ ($\alpha$ $=$ 0,005).
+Se ha realizado el test de $Grubbs$ y nos ha devuelto que los $outliers$ se encuentran en los saltos 6 y 13.\\
+
+A continuación mostramos que ocurre con los $RTT$ promedio de cada salto y con los $zScore$ promedio de cada salto:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\textwidth]{graficos/rTT_Australia.jpg}
+\caption{RTT promedio por hop - Universidad de Sydney}
+\label{Australia_rtt}
+\end{figure}
 
 \begin{figure}[H]
 \centering
@@ -74,12 +77,13 @@ Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo
 \label{Australia_zs}
 \end{figure}
 
-\begin{figure}[H]
-\centering
-\includegraphics[width=1\textwidth]{graficos/rTT_Australia.jpg}
-\caption{RTT promedio por hop - Universidad de Sydney}
-\label{Australia_rtt}
-\end{figure}
+Tanto en la tabla como en los gráficos se puede observar claramente que hubo dos $outliers$, uno de los cuales fue el esperado salto transatlántico: 
+desde Estados Unidos hacia Australia (salto 13). Dicho enlace submarino (con un $RTT$ promedio que supera los 300 ms), contrasta con los $RTT$ de los hops anteriores 
+que se encontraban por debajo de los 200 ms. En este caso la ubicación obtenida de la herramienta ha acompañado los datos.\\
+
+El otro $outlier$ detectado (salto 6) se produce cuando se viaja desde Argentina hacia Estados Unidos, nuevamente nos es extraño que no se detecta en el primer 
+hop hasta dicho país, sino en el segundo. Seguimos bajo la suposición que la primera $IP$ que se geolocaliza en Estados Unidos, la 207.136.166.241, 
+tiene un servidor alojado en Argentina o en algún país limítrofe, ya que el $RTT$ promedio hasta allí es muy bajo (similiar a host situados en Argentina).\\ 
 
 A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host destino ubicado en Australia:
 \begin{figure}[H]
@@ -89,4 +93,5 @@ A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host d
 \label{australia_zs}
 \end{figure}
 
-Éste es un claro ejemplo de lo ineficente que pueden llegar a ser las rutas en internet. Tal vez se deba a la falta de enlaces entre América Latina y Australia, ya que un recorrido recto podría haber llegado a ahorrar casi la mitad del tiempo.
+Éste es un claro ejemplo de lo ineficente que pueden llegar a ser las rutas en internet. 
+Tal vez se deba a la falta de enlaces entre América Latina y Australia, ya que un recorrido recto podría haber llegado a ahorrar casi la mitad del tiempo.

@@ -62,12 +62,10 @@ Presentamos en la siguiente tabla los resultados obtenidos del último monitoreo
 \end{tabular}
 
 \bigskip
+on estos datos hemos obtenido que los $\Delta$ $RTT$ siguen una distribución normal con una probabilidad del 99,5$\%$ ($\alpha$ $=$ 0,005).
+Se ha realizado el test de $Grubbs$ y nos ha devuelto que los $outliers$ se encuentran en los saltos 6 y 11.\\
 
-En base a los resultados obtenidos tomamos los $Delta$ $RTT$ y realizamos un test de normalidad de nivel $alpha$ $0.005$ y podemos concluir que sigue una distribución Normal. \\
-
-Además realizamos el Test de Grubbs para determinar la existencia de outliers, dichos valores representan a los saltos oceánicos, es decir cuando un paquete realiza un salto de un servidor situado en un continente distinto al del salto anterior.\\
-El test nos dio $Rechadazo$, como era de esperarse, debido a que realizamos una consulta a una Universidad situada en el continente asiatico. Para sorpresa nuestra, detectamos outliers en los Hop 6 y 11. El número 11 efectivamente es un salto oceanico, ya que pasa de un router situado en $Estados Unidos$ a uno en $Hong Kong$. En cambio el número 6 es un salto desde $Argentina$ a $Estados Unidos$, debido a la distancia entre un router y otro nuestro test lo detecta como un salto oceánico, a pesar de no serlo.\\
-
+A continuación mostramos que ocurre con los $RTT$ promedio de cada salto y con los $zScore$ promedio de cada salto:
 
 \begin{figure}[H]
 \centering
@@ -82,6 +80,17 @@ El test nos dio $Rechadazo$, como era de esperarse, debido a que realizamos una 
 \caption{zScore promedio por hop - Universidad de Hong Kong}
 \label{hongkong_zs}
 \end{figure}
+
+Cómo hemos notado en las universidades anteriores, los $outliers$ detectados por el test de $Grubbs$ notamos que el $RTT$ crece abruptamente y que los $zScore$ tienen 
+picos en ambos saltos.\\
+
+Cómo nos ha sucedido para la Universidad en Francia, el salto 6 corresponde a un salto desde Argentina hacia Estados Unidos. Al existir una gran distancia entre ambos hosts 
+nuestro test lo detecta.\\
+
+Con respecto al salto 11 nos ha llamado la atención que la ubicación nos de en Estados Unidos. Los saltos anteriores tienen una $IP$ muy parecida y el $RTT$ acompaña la idea
+que esos host se encuentren en América del Norte. Suponemos que el host del salto 11 no se encuentra en Estados Unidos dado que nos figura como $outlier$ en la distribución de 
+los $\Delta$ $RTT$. Seguramente este host se encuentre en China y lo mismo para los host de los saltos siguientes que tienen un $RTT$ promedio mayor a 0,3 s. Por lo tanto
+llegamos a la conclusión que en este salto existe un enlace submarino y nuevamente que no podemos tomar como válida la ubicación de la herramienta utilizada.\\
 
 A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host destino ubicado en Hong Kong - China:
 \begin{figure}[H]

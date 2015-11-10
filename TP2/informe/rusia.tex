@@ -59,16 +59,16 @@ A continuación mostramos que ocurre con los $RTT$ promedio de cada salto y con 
 \label{Rus_rtt}
 \end{figure}
 
-De manera preliminar puede verse que la diferencia temporal entre los diferentes saltos permanece en el orden de los $10^-3$ segundos, 
-habiendo tan solo dos casos en que esto no sucede. Primero en el salto 6 y luego en el salto 8 que se encuentran en el orden de los $10^-1$ 
+De manera preliminar puede verse que la diferencia temporal entre los diferentes saltos permanece en el orden de los $10^{-3}$ segundos, 
+habiendo tan solo dos casos en que esto no sucede. Primero en el salto 6 y luego en el salto 8 que se encuentran en el orden de los $10^{-1}$ 
 segundos. Cómo en el caso de la universidad anterior corresponden a los saltos detectados como $outliers$.\\
 
 Al calcular los $zScore$ apreciamos cuán alejados están los valores de la media.
 Aquí también puede verse que los saltos 6 y 8 son los mas patológicos y por lo tanto, los mejores candidatos a ser enlaces submarinos.\\
 
-Aún asi nos resulta extraño ver que tanto en el salto 6 como en el 8 las $IPs$ dicen estar asignadas a hosts de Estados Unidos. 
-Suponemos que podría deberse a que aunque las $IPs$ esten asignadas a host de Estados Unidos, el lugar físico donde se encuentren sea otro.
-Utilizando la herramienta http://www.infobyip.com/ pudimos observar algunos de los nombres de los hosts por los cuales hicimos el $traceroute$.
+Aún así nos resulta extraño ver que tanto en el salto 6 como en el 8 las $IPs$ dicen estar asignadas a hosts de Estados Unidos. 
+Suponemos que el lugar físico donde se encuentren sea otro aunque la $IP$ corresponda a Estados Unidos.
+Utilizando la herramienta $http://www.infobyip.com/$ pudimos observar algunos de los nombres de los hosts por los cuales hicimos el $traceroute$.\\
 
 De esta herramienta conseguimos la siguiente información:\\
 
@@ -90,7 +90,7 @@ hop & IP & Host name\\
 
 Tomando como hipótesis que los nombres de los hosts se corresponden con su ubicación geográfica, entonces nuestros resultados sobre 
 cuales son los enlaces submarinos parecerían estar en lo correcto. Esto se debe a que del salto 5 al salto 6 el paquete habría viajado desde Argentina 
-hacia Miami. Y del salto 7 al salto 8 el paquete parecería haber viajado de Miami hacia Estocolmo.
+hacia Miami. Y del salto 7 al salto 8 el paquete parecería haber viajado de Miami hacia Estocolmo.\\
 
 A continuación hemos trazado en un mapa la ruta de nuestro host hasta el host destino ubicado en Rusia tomando como cierta esta última información:
 \begin{figure}[H]
