@@ -1,1 +1,22 @@
 \section{Conclusiones}
+Una vez finalizados los experimentos nos encontramos con el problema de que las herramientas de geolocalización no son del todo correctas. 
+Dichas herramientas utilizadas, en algunos casos, nos dieron como resultado ubicaciones muy inexactas o ilógicas tomando como base los $RTT$ promedio obtenidos. 
+Donde seguramente debería existir un enlace submarino las $IPs$ de ambos lados de la ruta nos dieron dentro de un mismo país o en ubicaciones muy cercanas. 
+Relacionado con este tema no queríamos dejar de mencionar que existen routers que resultan invicibles al $traceroute$. Estos routers no contestan los paquetes 
+$echo-request$ y por lo tanto no podemos averiguar su $IP$ ni sus tiempos de respuesta. Estos routers que no brindan información perjudican el análisis de la 
+información y la correcta ubicación de las rutas.\\
+
+Todos los experimentos hacia las universidades fueron realizados bajo el proveedor de Internet Fibertel. Siempre han pasado por Estados Unidos.
+El caso de la universidad de Sydney nos generó curiosidad dado que se encuentran ambos host (el nuestro y el de la universidad) en el hemisferio sur. 
+Sin embargo la ruta de internet pasa por Estados Unidos provocando que se extiendan los tiempos de respuesta. Si existiese algún proveedor de internet que no 
+pase siempre por Estados Unidos se podrían generar distintas rutas que podrían ser favorables o no según el destino. Por ejemplo, es favorable ir hasta Estados Unidos 
+si queremos llegar a Hong Kong pero no lo es si queremos ir a Australia.\\
+
+Hemos podidos visualizar que los paquetes no van directo al destino sino que pasan por varios servidores antes de llegar al host final. 
+También hemos notado que no siempre tardan el mismo tiempo en llegar y aunque un destino esté geográficamente más cerca podría tardar más tiempo en llegar 
+dado que puede haber pérdida de paquetes o errores en los mismos lo que genera una retransmisión de los mensajes.\\  
+
+Con respecto a los enlaces submarinos los hemos podido detectar mediante los cambios de los $RTT$ promedios. 
+Esto era de esperarse dado que recorren miles de kilómetros sin nodos intermedios. Los incidentes los tuvimos al tratar de ubicar 
+físicamente los host dado que, como aclaramos anteriormente, las herramientas de geolocalización nos brindan una ubicación aproximada y hasta inexacta.\\
+
